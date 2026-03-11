@@ -1,0 +1,2001 @@
+review_id,user_id,product_id,rating,review_text,review_date
+1,35,1836,5,Packaging zabardast thi.,2026-01-09 15:45:45.993118
+2,292,2984,3,Original product hai.,2025-12-30 15:45:45.993132
+3,62,1761,5,Packaging zabardast thi.,2025-10-15 15:45:45.993135
+4,42,521,4,Quality thori average thi.,2025-07-15 15:45:45.993137
+5,129,2433,4,Packaging zabardast thi.,2025-11-27 15:45:45.993139
+6,120,1309,5,Bohat achi quality hai.,2025-11-04 15:45:45.993142
+7,535,2564,4,Packaging zabardast thi.,2025-07-16 15:45:45.993144
+8,40,2867,5,Packaging zabardast thi.,2025-12-19 15:45:45.993148
+9,638,1938,5,Bohat achi quality hai.,2025-04-10 15:45:45.993151
+10,782,393,4,Original product hai.,2026-01-18 15:45:45.993154
+11,961,2973,3,Quality thori average thi.,2025-11-07 15:45:45.993156
+12,214,218,5,Price ke hisaab se acha hai.,2025-08-12 15:45:45.993158
+13,542,2438,4,Price ke hisaab se acha hai.,2025-03-25 15:45:45.993160
+14,317,1882,3,Quality thori average thi.,2025-08-20 15:45:45.993162
+15,272,951,3,Price ke hisaab se acha hai.,2025-10-14 15:45:45.993164
+16,424,59,3,Packaging zabardast thi.,2025-06-23 15:45:45.993166
+17,530,2420,4,Bohat achi quality hai.,2025-11-29 15:45:45.993168
+18,319,1849,3,Packaging zabardast thi.,2025-05-02 15:45:45.993171
+19,287,667,5,Original product hai.,2025-07-30 15:45:45.993173
+20,855,852,5,Original product hai.,2026-01-25 15:45:45.993175
+21,326,36,5,Delivery time par mil gaya.,2025-03-11 15:45:45.993177
+22,576,1696,4,Quality thori average thi.,2025-08-18 15:45:45.993179
+23,863,1012,4,Packaging zabardast thi.,2026-01-24 15:45:45.993181
+24,753,2551,3,Original product hai.,2026-02-06 15:45:45.993183
+25,726,1688,4,Price ke hisaab se acha hai.,2026-01-01 15:45:45.993185
+26,315,394,3,Packaging zabardast thi.,2025-03-01 15:45:45.993187
+27,784,318,3,Packaging zabardast thi.,2025-11-06 15:45:45.993189
+28,167,274,3,Price ke hisaab se acha hai.,2025-06-11 15:45:45.993191
+29,938,87,5,Original product hai.,2025-02-17 15:45:45.993193
+30,145,2280,3,Price ke hisaab se acha hai.,2025-02-24 15:45:45.993195
+31,318,1827,4,Packaging zabardast thi.,2026-02-05 15:45:45.993197
+32,11,904,5,Quality thori average thi.,2025-11-30 15:45:45.993199
+33,963,1057,5,Delivery time par mil gaya.,2025-07-11 15:45:45.993201
+34,867,2819,5,Packaging zabardast thi.,2026-02-04 15:45:45.993203
+35,895,1043,5,Bohat achi quality hai.,2025-07-09 15:45:45.993205
+36,900,1759,4,Original product hai.,2025-09-21 15:45:45.993207
+37,712,2225,5,Bohat achi quality hai.,2025-05-16 15:45:45.993209
+38,352,413,4,Original product hai.,2025-10-21 15:45:45.993211
+39,928,1413,5,Packaging zabardast thi.,2025-11-14 15:45:45.993213
+40,579,1770,4,Delivery time par mil gaya.,2025-07-13 15:45:45.993215
+41,178,2943,5,Price ke hisaab se acha hai.,2025-07-15 15:45:45.993217
+42,227,2384,5,Delivery time par mil gaya.,2025-02-27 15:45:45.993219
+43,310,1925,4,Delivery time par mil gaya.,2025-05-11 15:45:45.993221
+44,868,869,5,Delivery time par mil gaya.,2025-05-17 15:45:45.993224
+45,812,2965,4,Packaging zabardast thi.,2025-05-06 15:45:45.993227
+46,388,1815,4,Original product hai.,2025-05-19 15:45:45.993230
+47,34,1159,4,Packaging zabardast thi.,2025-04-04 15:45:45.993233
+48,396,386,4,Quality thori average thi.,2025-03-16 15:45:45.993237
+49,642,208,3,Bohat achi quality hai.,2025-03-15 15:45:45.993240
+50,408,1045,3,Price ke hisaab se acha hai.,2025-04-03 15:45:45.993243
+51,473,1300,5,Bohat achi quality hai.,2025-07-01 15:45:45.993247
+52,842,71,4,Bohat achi quality hai.,2025-12-18 15:45:45.993250
+53,516,716,4,Quality thori average thi.,2025-12-02 15:45:45.993253
+54,74,1213,4,Bohat achi quality hai.,2025-08-31 15:45:45.993258
+55,532,2691,4,Bohat achi quality hai.,2025-04-10 15:45:45.993261
+56,292,144,4,Delivery time par mil gaya.,2025-09-21 15:45:45.993265
+57,359,1377,5,Packaging zabardast thi.,2025-03-20 15:45:45.993274
+58,138,1525,4,Quality thori average thi.,2025-10-03 15:45:45.993278
+59,529,699,4,Bohat achi quality hai.,2026-02-13 15:45:45.993280
+60,92,2674,4,Original product hai.,2026-01-11 15:45:45.993282
+61,11,478,5,Price ke hisaab se acha hai.,2025-10-02 15:45:45.993284
+62,47,2732,4,Price ke hisaab se acha hai.,2026-01-07 15:45:45.993286
+63,600,2808,5,Quality thori average thi.,2025-07-24 15:45:45.993288
+64,172,2604,3,Price ke hisaab se acha hai.,2025-11-01 15:45:45.993290
+65,976,199,5,Quality thori average thi.,2025-04-15 15:45:45.993292
+66,457,2168,3,Original product hai.,2025-12-24 15:45:45.993295
+67,374,566,5,Quality thori average thi.,2025-02-23 15:45:45.993296
+68,117,2717,3,Quality thori average thi.,2025-07-10 15:45:45.993298
+69,637,1734,5,Bohat achi quality hai.,2025-04-13 15:45:45.993300
+70,70,2182,4,Bohat achi quality hai.,2025-10-17 15:45:45.993302
+71,860,1272,4,Quality thori average thi.,2025-11-06 15:45:45.993304
+72,349,1816,4,Packaging zabardast thi.,2025-02-18 15:45:45.993307
+73,413,12,3,Packaging zabardast thi.,2025-06-20 15:45:45.993309
+74,878,2567,4,Original product hai.,2025-11-28 15:45:45.993311
+75,985,2445,5,Original product hai.,2025-03-15 15:45:45.993313
+76,995,1852,5,Original product hai.,2026-01-28 15:45:45.993315
+77,4,2519,4,Bohat achi quality hai.,2025-11-24 15:45:45.993317
+78,192,2065,5,Original product hai.,2025-12-12 15:45:45.993320
+79,812,2052,4,Quality thori average thi.,2025-07-01 15:45:45.993322
+80,628,117,3,Original product hai.,2025-03-25 15:45:45.993324
+81,291,1901,4,Original product hai.,2025-03-24 15:45:45.993326
+82,431,1181,3,Original product hai.,2025-05-25 15:45:45.993328
+83,504,2451,3,Quality thori average thi.,2025-04-17 15:45:45.993330
+84,785,1313,5,Delivery time par mil gaya.,2025-08-02 15:45:45.993332
+85,871,1807,5,Bohat achi quality hai.,2025-11-16 15:45:45.993334
+86,980,2679,5,Bohat achi quality hai.,2025-08-14 15:45:45.993336
+87,973,1028,3,Delivery time par mil gaya.,2025-07-08 15:45:45.993338
+88,8,441,4,Quality thori average thi.,2025-03-31 15:45:45.993340
+89,281,1607,3,Price ke hisaab se acha hai.,2025-10-24 15:45:45.993342
+90,74,2853,3,Packaging zabardast thi.,2025-06-30 15:45:45.993345
+91,802,63,3,Delivery time par mil gaya.,2026-01-07 15:45:45.993349
+92,112,2555,3,Price ke hisaab se acha hai.,2026-02-06 15:45:45.993352
+93,956,206,4,Quality thori average thi.,2025-06-29 15:45:45.993355
+94,732,496,3,Bohat achi quality hai.,2025-07-16 15:45:45.993359
+95,197,1463,5,Bohat achi quality hai.,2025-10-04 15:45:45.993362
+96,122,2415,5,Bohat achi quality hai.,2025-02-21 15:45:45.993366
+97,423,2559,3,Packaging zabardast thi.,2025-03-31 15:45:45.993369
+98,185,2320,4,Quality thori average thi.,2025-03-15 15:45:45.993372
+99,175,190,4,Quality thori average thi.,2026-01-03 15:45:45.993375
+100,807,1238,5,Packaging zabardast thi.,2025-05-07 15:45:45.993379
+101,723,2505,4,Quality thori average thi.,2025-07-15 15:45:45.993381
+102,911,1555,5,Quality thori average thi.,2025-12-13 15:45:45.993385
+103,396,659,5,Bohat achi quality hai.,2025-12-20 15:45:45.993388
+104,94,67,5,Quality thori average thi.,2026-01-21 15:45:45.993392
+105,867,942,3,Quality thori average thi.,2025-10-03 15:45:45.993395
+106,881,2312,3,Price ke hisaab se acha hai.,2025-02-19 15:45:45.993399
+107,601,2600,5,Packaging zabardast thi.,2025-08-09 15:45:45.993402
+108,362,1072,3,Price ke hisaab se acha hai.,2026-01-12 15:45:45.993406
+109,131,2738,5,Price ke hisaab se acha hai.,2025-07-26 15:45:45.993409
+110,543,2054,4,Packaging zabardast thi.,2025-04-10 15:45:45.993414
+111,417,2897,5,Price ke hisaab se acha hai.,2025-10-04 15:45:45.993418
+112,72,76,3,Packaging zabardast thi.,2026-01-02 15:45:45.993420
+113,802,370,3,Delivery time par mil gaya.,2025-09-03 15:45:45.993422
+114,843,323,3,Bohat achi quality hai.,2025-11-19 15:45:45.993424
+115,856,2542,5,Original product hai.,2026-01-12 15:45:45.993426
+116,945,2037,5,Quality thori average thi.,2025-07-02 15:45:45.993428
+117,859,2878,3,Delivery time par mil gaya.,2026-01-24 15:45:45.993430
+118,417,418,3,Packaging zabardast thi.,2025-07-24 15:45:45.993432
+119,972,813,4,Bohat achi quality hai.,2025-04-24 15:45:45.993433
+120,121,106,5,Original product hai.,2025-04-08 15:45:45.993435
+121,899,2626,4,Quality thori average thi.,2025-07-02 15:45:45.993437
+122,657,1691,5,Packaging zabardast thi.,2025-10-16 15:45:45.993439
+123,455,106,4,Packaging zabardast thi.,2025-03-23 15:45:45.993441
+124,841,1571,3,Packaging zabardast thi.,2025-04-13 15:45:45.993443
+125,544,596,5,Bohat achi quality hai.,2025-08-02 15:45:45.993445
+126,653,818,5,Packaging zabardast thi.,2025-11-21 15:45:45.993447
+127,637,339,4,Packaging zabardast thi.,2025-09-17 15:45:45.993449
+128,405,2252,4,Original product hai.,2025-11-15 15:45:45.993451
+129,390,2249,4,Price ke hisaab se acha hai.,2025-12-06 15:45:45.993453
+130,732,2062,3,Delivery time par mil gaya.,2025-08-24 15:45:45.993455
+131,416,1083,5,Original product hai.,2026-01-07 15:45:45.993457
+132,647,845,5,Quality thori average thi.,2025-04-24 15:45:45.993459
+133,327,1897,4,Price ke hisaab se acha hai.,2026-02-11 15:45:45.993461
+134,365,2773,5,Original product hai.,2026-01-04 15:45:45.993463
+135,23,90,3,Original product hai.,2025-08-17 15:45:45.993465
+136,205,2045,4,Original product hai.,2025-02-16 15:45:45.993467
+137,783,2655,5,Price ke hisaab se acha hai.,2025-11-02 15:45:45.993469
+138,200,499,4,Original product hai.,2025-10-25 15:45:45.993471
+139,608,1702,4,Original product hai.,2025-06-10 15:45:45.993473
+140,746,2453,3,Price ke hisaab se acha hai.,2025-10-28 15:45:45.993474
+141,66,1177,5,Price ke hisaab se acha hai.,2025-06-28 15:45:45.993476
+142,676,422,3,Price ke hisaab se acha hai.,2025-04-26 15:45:45.993478
+143,208,862,3,Price ke hisaab se acha hai.,2025-12-10 15:45:45.993480
+144,718,1144,5,Quality thori average thi.,2025-07-09 15:45:45.993482
+145,75,1361,3,Original product hai.,2026-01-08 15:45:45.993485
+146,936,2105,5,Bohat achi quality hai.,2025-07-04 15:45:45.993487
+147,416,666,5,Delivery time par mil gaya.,2026-01-13 15:45:45.993489
+148,463,2142,3,Price ke hisaab se acha hai.,2025-09-30 15:45:45.993490
+149,531,2925,5,Quality thori average thi.,2025-09-22 15:45:45.993493
+150,823,1303,5,Bohat achi quality hai.,2025-10-30 15:45:45.993495
+151,534,2884,4,Quality thori average thi.,2025-05-24 15:45:45.993497
+152,870,72,3,Price ke hisaab se acha hai.,2025-04-13 15:45:45.993499
+153,13,2184,3,Packaging zabardast thi.,2025-12-21 15:45:45.993501
+154,229,2897,5,Bohat achi quality hai.,2025-12-05 15:45:45.993502
+155,545,1998,3,Price ke hisaab se acha hai.,2025-08-14 15:45:45.993504
+156,989,541,3,Quality thori average thi.,2025-12-21 15:45:45.993506
+157,806,333,5,Delivery time par mil gaya.,2025-05-26 15:45:45.993508
+158,724,228,3,Packaging zabardast thi.,2026-01-20 15:45:45.993510
+159,804,89,4,Quality thori average thi.,2025-12-26 15:45:45.993512
+160,401,2686,5,Packaging zabardast thi.,2025-11-30 15:45:45.993514
+161,130,1369,3,Price ke hisaab se acha hai.,2025-04-04 15:45:45.993516
+162,942,1192,4,Original product hai.,2025-09-19 15:45:45.993518
+163,237,1034,5,Bohat achi quality hai.,2025-02-18 15:45:45.993520
+164,565,633,4,Price ke hisaab se acha hai.,2025-08-10 15:45:45.993522
+165,346,1885,3,Bohat achi quality hai.,2026-01-04 15:45:45.993524
+166,160,2680,5,Delivery time par mil gaya.,2025-08-28 15:45:45.993526
+167,815,1364,3,Original product hai.,2026-02-14 15:45:45.993529
+168,63,441,4,Packaging zabardast thi.,2026-01-14 15:45:45.993532
+169,103,117,3,Delivery time par mil gaya.,2025-08-25 15:45:45.993535
+170,316,595,5,Delivery time par mil gaya.,2026-01-13 15:45:45.993538
+171,766,1558,3,Packaging zabardast thi.,2025-05-26 15:45:45.993541
+172,833,873,4,Delivery time par mil gaya.,2025-12-11 15:45:45.993545
+173,918,1131,5,Bohat achi quality hai.,2025-06-19 15:45:45.993548
+174,4,184,5,Bohat achi quality hai.,2025-07-08 15:45:45.993553
+175,202,1176,5,Delivery time par mil gaya.,2025-02-27 15:45:45.993556
+176,679,196,3,Quality thori average thi.,2025-03-03 15:45:45.993560
+177,574,2989,3,Original product hai.,2025-09-06 15:45:45.993563
+178,98,1393,4,Bohat achi quality hai.,2025-11-27 15:45:45.993565
+179,489,102,5,Packaging zabardast thi.,2025-04-07 15:45:45.993567
+180,104,407,4,Quality thori average thi.,2025-08-01 15:45:45.993569
+181,254,2205,5,Quality thori average thi.,2025-07-14 15:45:45.993571
+182,141,912,4,Delivery time par mil gaya.,2025-09-27 15:45:45.993573
+183,814,1259,4,Bohat achi quality hai.,2025-12-01 15:45:45.993575
+184,860,1209,5,Packaging zabardast thi.,2025-11-14 15:45:45.993577
+185,326,2662,4,Packaging zabardast thi.,2025-09-09 15:45:45.993579
+186,230,1346,5,Quality thori average thi.,2025-07-19 15:45:45.993581
+187,798,396,4,Quality thori average thi.,2025-10-26 15:45:45.993582
+188,777,1896,5,Packaging zabardast thi.,2025-09-14 15:45:45.993584
+189,161,1777,3,Price ke hisaab se acha hai.,2025-12-01 15:45:45.993587
+190,356,1168,4,Delivery time par mil gaya.,2026-01-17 15:45:45.993589
+191,684,1853,5,Delivery time par mil gaya.,2025-05-31 15:45:45.993590
+192,532,1198,5,Packaging zabardast thi.,2025-03-24 15:45:45.993592
+193,572,2278,3,Price ke hisaab se acha hai.,2025-08-11 15:45:45.993594
+194,929,2015,5,Quality thori average thi.,2025-12-11 15:45:45.993596
+195,615,486,5,Price ke hisaab se acha hai.,2025-08-19 15:45:45.993598
+196,917,2118,5,Packaging zabardast thi.,2025-03-11 15:45:45.993600
+197,179,2508,3,Original product hai.,2025-12-31 15:45:45.993602
+198,614,2306,5,Delivery time par mil gaya.,2026-01-10 15:45:45.993605
+199,147,1855,5,Original product hai.,2025-10-28 15:45:45.993608
+200,253,1991,3,Quality thori average thi.,2026-02-08 15:45:45.993612
+201,640,2882,3,Delivery time par mil gaya.,2026-02-07 15:45:45.993615
+202,527,2608,4,Bohat achi quality hai.,2025-08-29 15:45:45.993620
+203,579,789,5,Packaging zabardast thi.,2026-02-07 15:45:45.993622
+204,323,784,4,Bohat achi quality hai.,2025-08-23 15:45:45.993625
+205,238,2282,4,Bohat achi quality hai.,2026-01-27 15:45:45.993629
+206,822,1418,3,Bohat achi quality hai.,2025-03-17 15:45:45.993631
+207,729,2037,4,Packaging zabardast thi.,2025-04-16 15:45:45.993634
+208,60,2207,5,Delivery time par mil gaya.,2025-12-12 15:45:45.993637
+209,556,1127,5,Original product hai.,2025-03-05 15:45:45.993640
+210,439,37,4,Quality thori average thi.,2026-01-03 15:45:45.993644
+211,147,2673,4,Bohat achi quality hai.,2025-08-17 15:45:45.993647
+212,191,204,4,Bohat achi quality hai.,2025-09-21 15:45:45.993651
+213,449,2368,3,Packaging zabardast thi.,2025-08-02 15:45:45.993654
+214,240,309,4,Quality thori average thi.,2025-03-31 15:45:45.993657
+215,292,2645,5,Price ke hisaab se acha hai.,2025-05-26 15:45:45.993660
+216,855,2469,3,Packaging zabardast thi.,2025-05-15 15:45:45.993664
+217,463,2720,5,Original product hai.,2025-08-19 15:45:45.993667
+218,130,2334,4,Bohat achi quality hai.,2026-01-30 15:45:45.993670
+219,663,1234,5,Price ke hisaab se acha hai.,2025-11-19 15:45:45.993673
+220,23,590,4,Original product hai.,2025-02-20 15:45:45.993677
+221,118,2693,4,Packaging zabardast thi.,2025-10-12 15:45:45.993680
+222,100,2603,3,Original product hai.,2025-09-12 15:45:45.993683
+223,53,1683,4,Bohat achi quality hai.,2025-07-20 15:45:45.993686
+224,826,78,5,Original product hai.,2025-10-18 15:45:45.993689
+225,887,769,4,Packaging zabardast thi.,2025-12-29 15:45:45.993692
+226,865,1911,3,Bohat achi quality hai.,2026-01-22 15:45:45.993696
+227,636,2600,5,Packaging zabardast thi.,2025-08-13 15:45:45.993699
+228,923,980,5,Price ke hisaab se acha hai.,2025-11-23 15:45:45.993701
+229,531,941,4,Packaging zabardast thi.,2025-04-27 15:45:45.993705
+230,441,2089,3,Packaging zabardast thi.,2025-09-02 15:45:45.993708
+231,929,78,5,Delivery time par mil gaya.,2025-02-26 15:45:45.993711
+232,352,2559,3,Bohat achi quality hai.,2025-06-15 15:45:45.993714
+233,977,2165,4,Original product hai.,2026-02-07 15:45:45.993717
+234,385,1886,3,Delivery time par mil gaya.,2025-09-12 15:45:45.993721
+235,118,2648,3,Delivery time par mil gaya.,2025-04-17 15:45:45.993725
+236,399,274,3,Packaging zabardast thi.,2025-09-02 15:45:45.993728
+237,494,241,3,Packaging zabardast thi.,2025-04-08 15:45:45.993731
+238,430,1111,5,Packaging zabardast thi.,2025-12-10 15:45:45.993735
+239,894,2402,3,Packaging zabardast thi.,2025-06-23 15:45:45.993738
+240,274,701,4,Original product hai.,2025-06-07 15:45:45.993741
+241,278,2939,3,Packaging zabardast thi.,2025-10-12 15:45:45.993744
+242,994,2672,5,Packaging zabardast thi.,2025-06-21 15:45:45.993747
+243,828,561,4,Bohat achi quality hai.,2025-05-15 15:45:45.993751
+244,183,2133,3,Bohat achi quality hai.,2026-01-15 15:45:45.993754
+245,704,310,4,Original product hai.,2025-12-14 15:45:45.993757
+246,720,2637,5,Original product hai.,2025-12-23 15:45:45.993761
+247,26,2775,4,Delivery time par mil gaya.,2025-06-15 15:45:45.993764
+248,601,433,4,Bohat achi quality hai.,2025-11-01 15:45:45.993768
+249,545,1867,4,Price ke hisaab se acha hai.,2025-05-11 15:45:45.993771
+250,575,1061,5,Bohat achi quality hai.,2025-07-17 15:45:45.993774
+251,993,362,5,Bohat achi quality hai.,2025-10-31 15:45:45.993778
+252,961,29,5,Packaging zabardast thi.,2025-10-17 15:45:45.993781
+253,381,1743,4,Quality thori average thi.,2025-03-03 15:45:45.993784
+254,301,2712,4,Original product hai.,2025-10-06 15:45:45.993788
+255,590,2842,5,Quality thori average thi.,2025-10-27 15:45:45.993792
+256,450,31,5,Delivery time par mil gaya.,2025-10-17 15:45:45.993797
+257,824,1464,4,Packaging zabardast thi.,2025-12-07 15:45:45.993800
+258,118,1160,5,Original product hai.,2025-12-24 15:45:45.993802
+259,498,770,5,Original product hai.,2026-02-04 15:45:45.993805
+260,367,2017,3,Price ke hisaab se acha hai.,2025-06-25 15:45:45.993808
+261,459,1442,4,Original product hai.,2025-10-30 15:45:45.993812
+262,122,2677,5,Bohat achi quality hai.,2025-04-18 15:45:45.993815
+263,976,218,5,Quality thori average thi.,2025-08-06 15:45:45.993819
+264,468,2699,3,Delivery time par mil gaya.,2026-02-04 15:45:45.993826
+265,821,1768,4,Price ke hisaab se acha hai.,2025-05-21 15:45:45.993828
+266,455,1346,4,Quality thori average thi.,2025-09-26 15:45:45.993830
+267,396,1619,4,Price ke hisaab se acha hai.,2025-08-31 15:45:45.993832
+268,227,2463,5,Original product hai.,2025-11-06 15:45:45.993834
+269,414,1881,4,Bohat achi quality hai.,2025-09-10 15:45:45.993836
+270,627,1871,5,Bohat achi quality hai.,2025-11-11 15:45:45.993838
+271,290,2253,4,Original product hai.,2026-01-06 15:45:45.993840
+272,361,2707,5,Original product hai.,2025-10-25 15:45:45.993842
+273,84,1617,4,Price ke hisaab se acha hai.,2026-01-11 15:45:45.993845
+274,486,542,5,Delivery time par mil gaya.,2025-10-17 15:45:45.993847
+275,237,2201,5,Price ke hisaab se acha hai.,2026-01-04 15:45:45.993849
+276,279,1351,5,Quality thori average thi.,2025-04-06 15:45:45.993851
+277,773,149,5,Packaging zabardast thi.,2025-12-18 15:45:45.993853
+278,681,2263,3,Delivery time par mil gaya.,2025-05-18 15:45:45.993855
+279,35,1466,3,Quality thori average thi.,2025-09-24 15:45:45.993857
+280,545,2820,5,Packaging zabardast thi.,2025-03-21 15:45:45.993859
+281,431,2589,5,Quality thori average thi.,2025-06-03 15:45:45.993861
+282,806,421,5,Quality thori average thi.,2025-02-14 15:45:45.993863
+283,59,606,4,Price ke hisaab se acha hai.,2025-09-23 15:45:45.993865
+284,376,456,3,Price ke hisaab se acha hai.,2025-09-14 15:45:45.993867
+285,823,306,4,Quality thori average thi.,2025-05-18 15:45:45.993869
+286,903,266,3,Bohat achi quality hai.,2026-01-13 15:45:45.993871
+287,196,11,4,Delivery time par mil gaya.,2026-02-10 15:45:45.993872
+288,722,1989,5,Original product hai.,2025-02-23 15:45:45.993874
+289,68,1512,5,Original product hai.,2025-10-02 15:45:45.993877
+290,810,1288,3,Bohat achi quality hai.,2025-12-01 15:45:45.993879
+291,843,1479,4,Price ke hisaab se acha hai.,2025-05-24 15:45:45.993881
+292,546,2586,3,Quality thori average thi.,2025-07-21 15:45:45.993883
+293,330,115,3,Packaging zabardast thi.,2025-09-13 15:45:45.993884
+294,914,1355,3,Packaging zabardast thi.,2025-07-09 15:45:45.993886
+295,73,2744,4,Quality thori average thi.,2025-06-09 15:45:45.993888
+296,952,2572,3,Original product hai.,2025-10-31 15:45:45.993890
+297,832,1927,5,Quality thori average thi.,2025-05-27 15:45:45.993892
+298,187,280,5,Quality thori average thi.,2026-02-01 15:45:45.993894
+299,319,2363,4,Delivery time par mil gaya.,2025-10-08 15:45:45.993896
+300,69,1906,3,Packaging zabardast thi.,2025-12-06 15:45:45.993898
+301,781,1096,3,Bohat achi quality hai.,2025-11-09 15:45:45.993900
+302,218,882,3,Price ke hisaab se acha hai.,2025-03-12 15:45:45.993902
+303,528,2820,5,Packaging zabardast thi.,2025-05-22 15:45:45.993904
+304,818,2093,3,Delivery time par mil gaya.,2025-12-22 15:45:45.993906
+305,874,380,5,Packaging zabardast thi.,2025-02-17 15:45:45.993908
+306,774,2138,5,Original product hai.,2026-02-05 15:45:45.993910
+307,42,1467,5,Bohat achi quality hai.,2025-11-10 15:45:45.993912
+308,487,375,4,Quality thori average thi.,2025-04-03 15:45:45.993914
+309,74,1552,5,Original product hai.,2025-03-27 15:45:45.993916
+310,44,1889,5,Price ke hisaab se acha hai.,2025-06-08 15:45:45.993919
+311,565,2420,4,Bohat achi quality hai.,2025-06-17 15:45:45.993920
+312,747,2852,5,Original product hai.,2025-05-26 15:45:45.993923
+313,801,268,4,Original product hai.,2025-03-20 15:45:45.993925
+314,790,1668,3,Bohat achi quality hai.,2025-08-11 15:45:45.993927
+315,134,2043,4,Bohat achi quality hai.,2025-04-20 15:45:45.993929
+316,994,2040,3,Bohat achi quality hai.,2025-04-06 15:45:45.993931
+317,859,794,4,Original product hai.,2025-12-03 15:45:45.994000
+318,469,259,5,Quality thori average thi.,2026-02-02 15:45:45.994003
+319,103,2870,3,Price ke hisaab se acha hai.,2025-09-21 15:45:45.994005
+320,124,981,5,Original product hai.,2025-10-30 15:45:45.994007
+321,424,1042,3,Price ke hisaab se acha hai.,2026-01-21 15:45:45.994009
+322,53,652,4,Original product hai.,2026-01-16 15:45:45.994011
+323,635,1545,5,Packaging zabardast thi.,2025-11-23 15:45:45.994012
+324,920,916,4,Quality thori average thi.,2025-07-30 15:45:45.994014
+325,729,871,5,Packaging zabardast thi.,2025-07-17 15:45:45.994016
+326,615,2011,4,Packaging zabardast thi.,2025-12-22 15:45:45.994018
+327,707,2825,3,Bohat achi quality hai.,2025-10-29 15:45:45.994020
+328,661,2918,3,Delivery time par mil gaya.,2025-12-01 15:45:45.994023
+329,359,701,4,Bohat achi quality hai.,2025-05-03 15:45:45.994025
+330,856,1665,5,Packaging zabardast thi.,2025-06-04 15:45:45.994027
+331,409,2037,3,Packaging zabardast thi.,2026-01-18 15:45:45.994029
+332,62,152,4,Packaging zabardast thi.,2025-12-28 15:45:45.994031
+333,281,2645,4,Original product hai.,2026-01-27 15:45:45.994033
+334,328,1751,5,Original product hai.,2025-03-25 15:45:45.994035
+335,259,2874,4,Quality thori average thi.,2025-11-11 15:45:45.994037
+336,597,781,5,Delivery time par mil gaya.,2026-01-04 15:45:45.994039
+337,725,1398,3,Quality thori average thi.,2025-09-15 15:45:45.994041
+338,196,1230,3,Original product hai.,2026-01-03 15:45:45.994043
+339,738,2711,4,Delivery time par mil gaya.,2025-05-01 15:45:45.994045
+340,195,2773,5,Bohat achi quality hai.,2025-11-25 15:45:45.994047
+341,83,1420,3,Quality thori average thi.,2026-02-01 15:45:45.994049
+342,900,382,5,Bohat achi quality hai.,2025-04-02 15:45:45.994051
+343,894,2226,4,Bohat achi quality hai.,2025-07-27 15:45:45.994053
+344,292,1579,5,Original product hai.,2025-11-22 15:45:45.994055
+345,902,2145,4,Bohat achi quality hai.,2025-12-17 15:45:45.994057
+346,711,92,4,Price ke hisaab se acha hai.,2025-11-04 15:45:45.994059
+347,728,1955,3,Quality thori average thi.,2025-04-03 15:45:45.994061
+348,391,968,4,Quality thori average thi.,2025-04-17 15:45:45.994063
+349,678,1335,4,Original product hai.,2025-04-26 15:45:45.994065
+350,30,1001,3,Bohat achi quality hai.,2025-08-10 15:45:45.994067
+351,392,885,3,Original product hai.,2025-05-16 15:45:45.994070
+352,565,415,5,Packaging zabardast thi.,2025-12-28 15:45:45.994073
+353,287,132,5,Bohat achi quality hai.,2026-01-10 15:45:45.994077
+354,754,2193,3,Bohat achi quality hai.,2025-05-27 15:45:45.994081
+355,368,992,5,Delivery time par mil gaya.,2025-12-01 15:45:45.994084
+356,205,2361,5,Packaging zabardast thi.,2025-03-14 15:45:45.994087
+357,907,2028,4,Original product hai.,2025-11-03 15:45:45.994091
+358,893,1239,3,Delivery time par mil gaya.,2025-04-26 15:45:45.994096
+359,23,1513,3,Original product hai.,2025-08-19 15:45:45.994098
+360,411,1479,5,Packaging zabardast thi.,2025-02-23 15:45:45.994100
+361,149,1411,3,Delivery time par mil gaya.,2025-11-04 15:45:45.994102
+362,236,16,3,Price ke hisaab se acha hai.,2025-10-16 15:45:45.994104
+363,421,866,5,Original product hai.,2025-09-03 15:45:45.994106
+364,361,1619,3,Quality thori average thi.,2025-06-21 15:45:45.994108
+365,727,2306,3,Bohat achi quality hai.,2025-04-02 15:45:45.994110
+366,313,2556,5,Quality thori average thi.,2026-01-28 15:45:45.994112
+367,751,1784,3,Delivery time par mil gaya.,2025-04-12 15:45:45.994114
+368,151,1785,5,Price ke hisaab se acha hai.,2026-02-01 15:45:45.994116
+369,406,1245,4,Price ke hisaab se acha hai.,2025-07-08 15:45:45.994118
+370,597,339,5,Original product hai.,2025-12-11 15:45:45.994121
+371,208,272,5,Bohat achi quality hai.,2025-09-19 15:45:45.994125
+372,850,606,5,Packaging zabardast thi.,2025-07-25 15:45:45.994128
+373,17,716,3,Price ke hisaab se acha hai.,2025-11-15 15:45:45.994131
+374,257,1899,5,Packaging zabardast thi.,2025-04-06 15:45:45.994135
+375,39,936,3,Packaging zabardast thi.,2025-03-09 15:45:45.994140
+376,317,2108,3,Original product hai.,2025-08-28 15:45:45.994142
+377,206,118,5,Original product hai.,2025-08-13 15:45:45.994144
+378,443,1036,5,Original product hai.,2025-03-15 15:45:45.994146
+379,923,458,3,Packaging zabardast thi.,2025-07-25 15:45:45.994148
+380,749,2243,4,Packaging zabardast thi.,2025-02-26 15:45:45.994150
+381,456,2328,4,Packaging zabardast thi.,2025-04-14 15:45:45.994153
+382,33,1027,5,Delivery time par mil gaya.,2025-03-15 15:45:45.994156
+383,294,409,5,Price ke hisaab se acha hai.,2025-03-25 15:45:45.994160
+384,762,863,5,Bohat achi quality hai.,2025-07-07 15:45:45.994163
+385,280,944,5,Packaging zabardast thi.,2025-07-30 15:45:45.994167
+386,685,383,3,Delivery time par mil gaya.,2025-11-14 15:45:45.994170
+387,61,973,5,Bohat achi quality hai.,2025-07-17 15:45:45.994177
+388,616,1159,5,Original product hai.,2025-09-25 15:45:45.994179
+389,447,1915,5,Original product hai.,2025-09-05 15:45:45.994184
+390,679,1383,3,Original product hai.,2025-07-16 15:45:45.994187
+391,277,2529,3,Quality thori average thi.,2026-02-06 15:45:45.994190
+392,566,2856,3,Packaging zabardast thi.,2025-08-23 15:45:45.994194
+393,65,1482,5,Bohat achi quality hai.,2025-08-22 15:45:45.994204
+394,225,2877,3,Original product hai.,2025-09-16 15:45:45.994208
+395,674,1929,3,Original product hai.,2025-09-14 15:45:45.994212
+396,537,1027,4,Packaging zabardast thi.,2025-05-21 15:45:45.994215
+397,273,1027,5,Delivery time par mil gaya.,2026-02-04 15:45:45.994218
+398,940,2968,5,Packaging zabardast thi.,2025-08-27 15:45:45.994222
+399,958,2463,3,Quality thori average thi.,2025-06-15 15:45:45.994225
+400,756,2887,5,Original product hai.,2026-02-05 15:45:45.994230
+401,705,1801,4,Original product hai.,2025-05-20 15:45:45.994232
+402,224,2865,5,Bohat achi quality hai.,2025-10-23 15:45:45.994235
+403,825,2740,3,Price ke hisaab se acha hai.,2025-05-11 15:45:45.994237
+404,966,1225,4,Bohat achi quality hai.,2025-03-06 15:45:45.994239
+405,499,2916,4,Price ke hisaab se acha hai.,2025-12-27 15:45:45.994241
+406,689,1071,4,Price ke hisaab se acha hai.,2025-06-11 15:45:45.994243
+407,998,2096,3,Original product hai.,2025-07-20 15:45:45.994245
+408,339,939,3,Original product hai.,2026-01-11 15:45:45.994247
+409,669,2913,3,Original product hai.,2025-06-02 15:45:45.994249
+410,373,295,4,Delivery time par mil gaya.,2025-07-25 15:45:45.994251
+411,82,718,4,Quality thori average thi.,2025-02-17 15:45:45.994253
+412,940,1158,5,Packaging zabardast thi.,2025-09-15 15:45:45.994255
+413,977,1587,4,Delivery time par mil gaya.,2025-10-21 15:45:45.994258
+414,747,2827,3,Packaging zabardast thi.,2025-07-28 15:45:45.994261
+415,125,740,3,Original product hai.,2025-11-29 15:45:45.994265
+416,916,467,3,Bohat achi quality hai.,2025-04-27 15:45:45.994268
+417,992,1008,4,Bohat achi quality hai.,2025-12-20 15:45:45.994271
+418,347,1900,4,Price ke hisaab se acha hai.,2025-06-06 15:45:45.994275
+419,363,154,4,Quality thori average thi.,2026-01-27 15:45:45.994281
+420,43,176,4,Packaging zabardast thi.,2025-04-10 15:45:45.994284
+421,525,2266,4,Packaging zabardast thi.,2025-11-22 15:45:45.994287
+422,413,574,3,Bohat achi quality hai.,2025-03-09 15:45:45.994290
+423,187,627,3,Delivery time par mil gaya.,2025-12-25 15:45:45.994294
+424,559,280,4,Bohat achi quality hai.,2026-02-12 15:45:45.994298
+425,971,1578,5,Original product hai.,2025-11-22 15:45:45.994304
+426,538,682,5,Bohat achi quality hai.,2025-09-05 15:45:45.994306
+427,683,902,3,Price ke hisaab se acha hai.,2026-01-28 15:45:45.994310
+428,541,2424,3,Bohat achi quality hai.,2026-01-07 15:45:45.994313
+429,942,2026,5,Packaging zabardast thi.,2026-01-08 15:45:45.994316
+430,649,589,4,Price ke hisaab se acha hai.,2025-11-17 15:45:45.994320
+431,898,152,5,Packaging zabardast thi.,2026-01-03 15:45:45.994334
+432,233,1395,5,Delivery time par mil gaya.,2025-07-04 15:45:45.994337
+433,12,513,5,Packaging zabardast thi.,2026-02-08 15:45:45.994339
+434,885,53,5,Bohat achi quality hai.,2025-06-05 15:45:45.994341
+435,340,2455,4,Price ke hisaab se acha hai.,2025-05-23 15:45:45.994343
+436,920,1183,5,Price ke hisaab se acha hai.,2025-08-28 15:45:45.994345
+437,144,2793,3,Quality thori average thi.,2025-10-23 15:45:45.994346
+438,533,292,3,Price ke hisaab se acha hai.,2025-05-02 15:45:45.994348
+439,994,1660,3,Quality thori average thi.,2025-10-04 15:45:45.994351
+440,830,387,5,Delivery time par mil gaya.,2025-10-04 15:45:45.994352
+441,497,2592,4,Packaging zabardast thi.,2025-02-14 15:45:45.994354
+442,248,2767,5,Delivery time par mil gaya.,2025-12-21 15:45:45.994356
+443,482,2,3,Original product hai.,2025-06-03 15:45:45.994358
+444,758,1055,5,Original product hai.,2025-05-10 15:45:45.994360
+445,848,2894,3,Bohat achi quality hai.,2025-06-12 15:45:45.994362
+446,281,2924,4,Delivery time par mil gaya.,2025-08-29 15:45:45.994365
+447,328,2618,4,Original product hai.,2025-03-03 15:45:45.994368
+448,465,1618,5,Packaging zabardast thi.,2025-07-04 15:45:45.994371
+449,452,470,4,Original product hai.,2025-03-02 15:45:45.994374
+450,221,979,3,Original product hai.,2025-12-26 15:45:45.994377
+451,396,726,4,Original product hai.,2025-05-15 15:45:45.994382
+452,83,963,4,Original product hai.,2025-04-17 15:45:45.994385
+453,717,1819,4,Price ke hisaab se acha hai.,2026-02-02 15:45:45.994388
+454,822,1626,4,Packaging zabardast thi.,2025-12-31 15:45:45.994391
+455,812,1279,3,Original product hai.,2025-08-04 15:45:45.994394
+456,493,2477,5,Price ke hisaab se acha hai.,2025-09-04 15:45:45.994398
+457,586,54,5,Quality thori average thi.,2025-03-01 15:45:45.994401
+458,873,2276,5,Original product hai.,2025-09-17 15:45:45.994405
+459,971,389,4,Packaging zabardast thi.,2025-03-28 15:45:45.994408
+460,868,320,4,Original product hai.,2025-11-12 15:45:45.994411
+461,426,863,5,Original product hai.,2025-07-18 15:45:45.994414
+462,993,2778,3,Packaging zabardast thi.,2025-09-25 15:45:45.994418
+463,918,2368,3,Price ke hisaab se acha hai.,2025-10-23 15:45:45.994420
+464,490,48,5,Bohat achi quality hai.,2025-08-12 15:45:45.994424
+465,980,567,4,Quality thori average thi.,2025-09-04 15:45:45.994426
+466,914,883,5,Bohat achi quality hai.,2025-10-03 15:45:45.994430
+467,197,2583,4,Original product hai.,2025-06-08 15:45:45.994432
+468,751,913,5,Price ke hisaab se acha hai.,2025-05-01 15:45:45.994435
+469,329,1220,5,Delivery time par mil gaya.,2025-10-06 15:45:45.994438
+470,157,2376,3,Packaging zabardast thi.,2025-09-27 15:45:45.994441
+471,63,11,4,Packaging zabardast thi.,2025-04-18 15:45:45.994444
+472,865,821,4,Bohat achi quality hai.,2025-02-19 15:45:45.994448
+473,118,1252,4,Quality thori average thi.,2025-02-24 15:45:45.994451
+474,404,2620,3,Bohat achi quality hai.,2025-07-25 15:45:45.994454
+475,171,91,5,Packaging zabardast thi.,2026-02-03 15:45:45.994457
+476,884,2500,3,Price ke hisaab se acha hai.,2025-11-07 15:45:45.994460
+477,681,1482,4,Delivery time par mil gaya.,2025-08-13 15:45:45.994463
+478,945,2158,5,Quality thori average thi.,2025-05-16 15:45:45.994466
+479,232,1280,3,Delivery time par mil gaya.,2025-02-20 15:45:45.994469
+480,433,2261,3,Quality thori average thi.,2025-09-29 15:45:45.994472
+481,143,189,5,Delivery time par mil gaya.,2025-11-27 15:45:45.994475
+482,812,2684,3,Bohat achi quality hai.,2026-02-03 15:45:45.994479
+483,288,1824,4,Bohat achi quality hai.,2025-10-18 15:45:45.994481
+484,51,34,3,Delivery time par mil gaya.,2025-03-06 15:45:45.994485
+485,196,378,4,Bohat achi quality hai.,2025-06-30 15:45:45.994488
+486,502,1564,5,Delivery time par mil gaya.,2025-05-27 15:45:45.994491
+487,546,373,3,Packaging zabardast thi.,2025-10-12 15:45:45.994495
+488,420,2385,3,Quality thori average thi.,2025-11-11 15:45:45.994498
+489,113,1798,5,Quality thori average thi.,2025-05-12 15:45:45.994501
+490,753,245,3,Price ke hisaab se acha hai.,2025-06-16 15:45:45.994504
+491,448,1586,5,Delivery time par mil gaya.,2025-08-19 15:45:45.994507
+492,592,1239,5,Packaging zabardast thi.,2025-08-11 15:45:45.994510
+493,448,1417,3,Price ke hisaab se acha hai.,2025-06-16 15:45:45.994513
+494,867,663,4,Delivery time par mil gaya.,2025-02-28 15:45:45.994516
+495,877,1172,3,Price ke hisaab se acha hai.,2025-12-26 15:45:45.994519
+496,472,539,5,Price ke hisaab se acha hai.,2025-06-21 15:45:45.994523
+497,916,205,4,Bohat achi quality hai.,2025-05-09 15:45:45.994525
+498,382,2996,5,Packaging zabardast thi.,2025-09-10 15:45:45.994528
+499,210,1932,5,Bohat achi quality hai.,2026-01-23 15:45:45.994531
+500,969,1746,4,Delivery time par mil gaya.,2025-05-30 15:45:45.994534
+501,15,316,3,Price ke hisaab se acha hai.,2025-07-05 15:45:45.994537
+502,389,550,4,Packaging zabardast thi.,2025-11-05 15:45:45.994540
+503,914,1428,4,Quality thori average thi.,2025-03-28 15:45:45.994543
+504,778,1157,4,Packaging zabardast thi.,2025-11-27 15:45:45.994547
+505,591,2314,5,Original product hai.,2025-11-03 15:45:45.994550
+506,916,221,5,Price ke hisaab se acha hai.,2025-05-13 15:45:45.994553
+507,257,1779,4,Price ke hisaab se acha hai.,2025-08-21 15:45:45.994556
+508,251,1382,3,Original product hai.,2026-01-08 15:45:45.994560
+509,916,1365,3,Delivery time par mil gaya.,2025-07-19 15:45:45.994563
+510,31,587,5,Quality thori average thi.,2025-11-12 15:45:45.994566
+511,207,2287,4,Packaging zabardast thi.,2025-09-28 15:45:45.994569
+512,271,1781,4,Quality thori average thi.,2025-04-27 15:45:45.994573
+513,765,125,4,Delivery time par mil gaya.,2025-02-27 15:45:45.994576
+514,457,917,4,Delivery time par mil gaya.,2025-07-07 15:45:45.994580
+515,8,368,3,Bohat achi quality hai.,2025-12-05 15:45:45.994584
+516,868,1303,5,Original product hai.,2025-08-10 15:45:45.994587
+517,839,103,4,Delivery time par mil gaya.,2025-09-02 15:45:45.994591
+518,305,276,5,Packaging zabardast thi.,2025-11-26 15:45:45.994602
+519,138,721,4,Bohat achi quality hai.,2025-10-08 15:45:45.994606
+520,996,2564,3,Price ke hisaab se acha hai.,2025-10-17 15:45:45.994609
+521,502,2584,4,Price ke hisaab se acha hai.,2025-03-11 15:45:45.994613
+522,296,1215,3,Quality thori average thi.,2025-07-29 15:45:45.994617
+523,30,605,3,Price ke hisaab se acha hai.,2025-06-20 15:45:45.994620
+524,562,1371,4,Packaging zabardast thi.,2026-01-15 15:45:45.994623
+525,659,1449,3,Quality thori average thi.,2025-02-14 15:45:45.994627
+526,610,2912,4,Packaging zabardast thi.,2025-11-18 15:45:45.994631
+527,580,2430,5,Delivery time par mil gaya.,2025-11-20 15:45:45.994643
+528,858,2188,3,Delivery time par mil gaya.,2025-12-06 15:45:45.994645
+529,557,1427,5,Packaging zabardast thi.,2025-05-07 15:45:45.994648
+530,243,995,4,Price ke hisaab se acha hai.,2025-10-29 15:45:45.994650
+531,354,2213,4,Original product hai.,2025-12-03 15:45:45.994652
+532,999,720,3,Delivery time par mil gaya.,2025-03-07 15:45:45.994654
+533,532,630,5,Delivery time par mil gaya.,2025-04-10 15:45:45.994656
+534,633,198,5,Packaging zabardast thi.,2025-03-26 15:45:45.994658
+535,219,2393,5,Packaging zabardast thi.,2025-09-13 15:45:45.994660
+536,171,2882,5,Price ke hisaab se acha hai.,2025-10-22 15:45:45.994662
+537,544,1869,4,Price ke hisaab se acha hai.,2025-10-18 15:45:45.994664
+538,942,2045,4,Packaging zabardast thi.,2025-03-22 15:45:45.994666
+539,411,2078,3,Delivery time par mil gaya.,2026-02-06 15:45:45.994668
+540,530,1001,5,Quality thori average thi.,2025-07-23 15:45:45.994670
+541,7,2624,4,Delivery time par mil gaya.,2025-05-15 15:45:45.994672
+542,608,1568,4,Original product hai.,2025-05-29 15:45:45.994674
+543,397,1209,4,Price ke hisaab se acha hai.,2025-08-24 15:45:45.994678
+544,288,564,5,Quality thori average thi.,2025-07-23 15:45:45.994681
+545,60,474,4,Bohat achi quality hai.,2025-12-15 15:45:45.994684
+546,79,1592,3,Bohat achi quality hai.,2025-02-27 15:45:45.994687
+547,246,778,5,Bohat achi quality hai.,2025-09-04 15:45:45.994691
+548,523,1370,5,Packaging zabardast thi.,2025-07-31 15:45:45.994695
+549,530,167,4,Quality thori average thi.,2025-04-08 15:45:45.994699
+550,18,2171,3,Packaging zabardast thi.,2025-08-22 15:45:45.994701
+551,233,704,4,Delivery time par mil gaya.,2025-07-01 15:45:45.994702
+552,215,1081,5,Delivery time par mil gaya.,2025-11-13 15:45:45.994704
+553,6,370,3,Price ke hisaab se acha hai.,2025-03-02 15:45:45.994706
+554,222,2650,3,Delivery time par mil gaya.,2025-10-06 15:45:45.994709
+555,735,1219,4,Packaging zabardast thi.,2025-12-05 15:45:45.994711
+556,588,940,3,Quality thori average thi.,2025-06-02 15:45:45.994713
+557,927,743,3,Original product hai.,2025-03-30 15:45:45.994715
+558,445,893,5,Original product hai.,2025-12-24 15:45:45.994717
+559,203,2306,5,Quality thori average thi.,2026-02-04 15:45:45.994719
+560,398,1005,5,Original product hai.,2025-07-26 15:45:45.994721
+561,462,683,5,Quality thori average thi.,2025-04-05 15:45:45.994723
+562,546,1961,5,Original product hai.,2026-01-23 15:45:45.994725
+563,376,731,4,Delivery time par mil gaya.,2025-05-11 15:45:45.994727
+564,107,563,4,Price ke hisaab se acha hai.,2025-10-02 15:45:45.994729
+565,870,1255,3,Packaging zabardast thi.,2025-09-15 15:45:45.994731
+566,435,1253,4,Packaging zabardast thi.,2026-01-04 15:45:45.994733
+567,220,2945,4,Bohat achi quality hai.,2025-11-18 15:45:45.994735
+568,4,2398,3,Delivery time par mil gaya.,2025-04-29 15:45:45.994737
+569,727,1145,3,Price ke hisaab se acha hai.,2025-04-25 15:45:45.994739
+570,363,1528,5,Original product hai.,2025-11-30 15:45:45.994741
+571,962,2168,4,Price ke hisaab se acha hai.,2026-01-22 15:45:45.994743
+572,640,279,5,Original product hai.,2025-06-27 15:45:45.994745
+573,436,721,4,Delivery time par mil gaya.,2025-04-17 15:45:45.994748
+574,318,327,5,Bohat achi quality hai.,2025-07-12 15:45:45.994750
+575,447,1586,5,Quality thori average thi.,2025-10-24 15:45:45.994752
+576,115,358,4,Original product hai.,2025-09-03 15:45:45.994754
+577,876,28,5,Price ke hisaab se acha hai.,2025-07-18 15:45:45.994756
+578,372,1999,5,Bohat achi quality hai.,2025-04-03 15:45:45.994757
+579,505,43,4,Delivery time par mil gaya.,2025-07-24 15:45:45.994759
+580,785,847,3,Packaging zabardast thi.,2025-06-07 15:45:45.994761
+581,775,2754,5,Delivery time par mil gaya.,2025-08-19 15:45:45.994763
+582,19,1673,3,Packaging zabardast thi.,2025-11-28 15:45:45.994765
+583,151,252,3,Delivery time par mil gaya.,2025-07-28 15:45:45.994767
+584,778,1927,5,Delivery time par mil gaya.,2025-06-27 15:45:45.994770
+585,468,417,3,Price ke hisaab se acha hai.,2025-09-18 15:45:45.994772
+586,871,1630,3,Price ke hisaab se acha hai.,2026-02-05 15:45:45.994774
+587,622,1227,4,Bohat achi quality hai.,2025-11-10 15:45:45.994776
+588,36,924,3,Price ke hisaab se acha hai.,2025-08-18 15:45:45.994778
+589,368,2773,4,Price ke hisaab se acha hai.,2026-02-12 15:45:45.994780
+590,19,2402,3,Packaging zabardast thi.,2025-09-16 15:45:45.994781
+591,774,298,5,Quality thori average thi.,2025-05-24 15:45:45.994788
+592,858,1011,3,Packaging zabardast thi.,2025-08-20 15:45:45.994790
+593,259,465,5,Packaging zabardast thi.,2025-06-11 15:45:45.994792
+594,301,821,4,Quality thori average thi.,2025-12-22 15:45:45.994795
+595,602,2153,3,Original product hai.,2025-03-02 15:45:45.994797
+596,566,1325,4,Quality thori average thi.,2025-02-19 15:45:45.994799
+597,202,2547,4,Price ke hisaab se acha hai.,2025-06-09 15:45:45.994801
+598,174,148,4,Original product hai.,2025-07-03 15:45:45.994803
+599,878,315,5,Bohat achi quality hai.,2025-11-30 15:45:45.994805
+600,299,1615,5,Delivery time par mil gaya.,2025-11-01 15:45:45.994807
+601,143,2423,5,Packaging zabardast thi.,2025-10-15 15:45:45.994809
+602,901,282,5,Quality thori average thi.,2025-03-24 15:45:45.994811
+603,210,1048,5,Original product hai.,2026-02-02 15:45:45.994813
+604,769,2565,4,Original product hai.,2025-09-11 15:45:45.994815
+605,173,1620,4,Quality thori average thi.,2025-07-18 15:45:45.994817
+606,986,2496,3,Price ke hisaab se acha hai.,2025-12-18 15:45:45.994819
+607,917,37,3,Packaging zabardast thi.,2026-01-11 15:45:45.994821
+608,14,266,4,Delivery time par mil gaya.,2025-12-17 15:45:45.994823
+609,906,1751,5,Quality thori average thi.,2025-12-05 15:45:45.994825
+610,167,1392,5,Original product hai.,2025-12-26 15:45:45.994827
+611,948,2062,3,Delivery time par mil gaya.,2025-07-21 15:45:45.994829
+612,769,450,3,Delivery time par mil gaya.,2025-10-30 15:45:45.994831
+613,607,1208,3,Delivery time par mil gaya.,2025-09-26 15:45:45.994833
+614,688,1626,3,Quality thori average thi.,2025-10-15 15:45:45.994835
+615,256,2633,5,Price ke hisaab se acha hai.,2025-12-10 15:45:45.994837
+616,766,1368,4,Price ke hisaab se acha hai.,2025-09-15 15:45:45.994839
+617,17,1978,5,Delivery time par mil gaya.,2026-01-18 15:45:45.994841
+618,580,805,4,Delivery time par mil gaya.,2025-12-15 15:45:45.994842
+619,431,2281,3,Quality thori average thi.,2026-02-10 15:45:45.994845
+620,746,1303,3,Price ke hisaab se acha hai.,2025-04-24 15:45:45.994846
+621,417,2647,5,Bohat achi quality hai.,2025-10-09 15:45:45.994848
+622,540,354,3,Quality thori average thi.,2025-05-22 15:45:45.994850
+623,1,251,5,Quality thori average thi.,2025-02-23 15:45:45.994852
+624,819,812,3,Price ke hisaab se acha hai.,2025-03-21 15:45:45.994854
+625,560,1198,4,Price ke hisaab se acha hai.,2025-12-10 15:45:45.994858
+626,871,2869,3,Price ke hisaab se acha hai.,2025-07-01 15:45:45.994861
+627,577,992,5,Quality thori average thi.,2025-10-02 15:45:45.994864
+628,517,217,4,Original product hai.,2025-06-15 15:45:45.994867
+629,543,833,5,Price ke hisaab se acha hai.,2025-10-18 15:45:45.994871
+630,659,1658,3,Quality thori average thi.,2025-06-05 15:45:45.994874
+631,912,2526,4,Price ke hisaab se acha hai.,2026-02-12 15:45:45.994879
+632,564,2050,3,Delivery time par mil gaya.,2025-02-28 15:45:45.994881
+633,831,1476,5,Packaging zabardast thi.,2025-07-02 15:45:45.994884
+634,678,2424,3,Bohat achi quality hai.,2025-03-10 15:45:45.994886
+635,176,1123,5,Original product hai.,2025-03-07 15:45:45.994888
+636,764,1832,5,Delivery time par mil gaya.,2025-08-11 15:45:45.994890
+637,437,1720,3,Quality thori average thi.,2025-06-03 15:45:45.994892
+638,14,1865,4,Price ke hisaab se acha hai.,2025-06-13 15:45:45.994894
+639,865,1471,5,Original product hai.,2025-08-03 15:45:45.994896
+640,110,967,3,Price ke hisaab se acha hai.,2025-05-22 15:45:45.994898
+641,919,2174,3,Quality thori average thi.,2025-08-18 15:45:45.994900
+642,522,1181,4,Quality thori average thi.,2025-03-27 15:45:45.994902
+643,957,1236,4,Bohat achi quality hai.,2025-12-11 15:45:45.994904
+644,814,2013,5,Packaging zabardast thi.,2025-07-01 15:45:45.994906
+645,695,953,5,Quality thori average thi.,2025-12-23 15:45:45.994908
+646,816,2842,5,Quality thori average thi.,2025-05-29 15:45:45.994910
+647,369,518,5,Bohat achi quality hai.,2025-06-19 15:45:45.994912
+648,167,1587,3,Original product hai.,2025-08-14 15:45:45.994915
+649,384,495,5,Packaging zabardast thi.,2025-02-17 15:45:45.994917
+650,245,1743,4,Original product hai.,2025-06-08 15:45:45.994919
+651,277,2538,4,Price ke hisaab se acha hai.,2025-05-28 15:45:45.994921
+652,752,2035,3,Quality thori average thi.,2025-06-04 15:45:45.994923
+653,539,2839,4,Quality thori average thi.,2025-12-01 15:45:45.994925
+654,546,2383,4,Original product hai.,2025-05-10 15:45:45.994927
+655,398,2677,5,Price ke hisaab se acha hai.,2025-05-29 15:45:45.994932
+656,256,575,3,Packaging zabardast thi.,2025-09-07 15:45:45.994934
+657,324,2886,4,Quality thori average thi.,2025-05-09 15:45:45.994936
+658,360,999,5,Original product hai.,2025-09-07 15:45:45.994939
+659,559,2866,3,Quality thori average thi.,2025-08-01 15:45:45.994941
+660,141,1401,3,Bohat achi quality hai.,2026-01-04 15:45:45.994943
+661,826,1900,3,Delivery time par mil gaya.,2025-12-08 15:45:45.994945
+662,82,2708,5,Price ke hisaab se acha hai.,2025-08-14 15:45:45.994947
+663,911,2613,5,Packaging zabardast thi.,2025-05-19 15:45:45.994949
+664,704,1730,4,Delivery time par mil gaya.,2025-07-01 15:45:45.994952
+665,680,2886,3,Packaging zabardast thi.,2025-08-20 15:45:45.994954
+666,903,2795,5,Packaging zabardast thi.,2025-09-10 15:45:45.994956
+667,195,1636,4,Original product hai.,2025-06-04 15:45:45.994960
+668,913,743,5,Bohat achi quality hai.,2025-07-04 15:45:45.994962
+669,834,159,5,Bohat achi quality hai.,2025-07-06 15:45:45.994964
+670,391,237,3,Delivery time par mil gaya.,2025-07-17 15:45:45.994966
+671,228,2328,5,Quality thori average thi.,2025-11-28 15:45:45.994968
+672,679,708,4,Original product hai.,2025-02-18 15:45:45.994970
+673,79,1456,5,Quality thori average thi.,2025-04-16 15:45:45.994972
+674,344,1934,5,Price ke hisaab se acha hai.,2025-10-06 15:45:45.994974
+675,160,299,3,Quality thori average thi.,2025-08-22 15:45:45.994976
+676,694,2007,5,Quality thori average thi.,2025-07-02 15:45:45.994978
+677,788,2789,3,Original product hai.,2025-05-04 15:45:45.994980
+678,642,13,4,Price ke hisaab se acha hai.,2025-10-23 15:45:45.994982
+679,562,1297,5,Packaging zabardast thi.,2025-12-11 15:45:45.994984
+680,108,642,3,Price ke hisaab se acha hai.,2025-12-27 15:45:45.994986
+681,635,2595,3,Bohat achi quality hai.,2025-09-28 15:45:45.994988
+682,936,2688,5,Original product hai.,2025-11-02 15:45:45.994990
+683,439,1552,5,Delivery time par mil gaya.,2025-03-20 15:45:45.994992
+684,979,2632,5,Quality thori average thi.,2026-01-07 15:45:45.994994
+685,271,589,3,Price ke hisaab se acha hai.,2025-05-07 15:45:45.994996
+686,303,1524,5,Quality thori average thi.,2025-06-06 15:45:45.994998
+687,126,2886,5,Original product hai.,2025-11-10 15:45:45.995000
+688,898,2640,4,Delivery time par mil gaya.,2025-03-08 15:45:45.995002
+689,913,1904,4,Price ke hisaab se acha hai.,2025-11-19 15:45:45.995004
+690,654,1522,5,Price ke hisaab se acha hai.,2025-06-12 15:45:45.995006
+691,217,1420,3,Packaging zabardast thi.,2025-11-12 15:45:45.995008
+692,247,1095,4,Packaging zabardast thi.,2025-11-06 15:45:45.995010
+693,572,685,3,Delivery time par mil gaya.,2025-11-26 15:45:45.995012
+694,919,1930,5,Bohat achi quality hai.,2025-04-07 15:45:45.995014
+695,538,2308,4,Price ke hisaab se acha hai.,2026-01-31 15:45:45.995016
+696,709,1284,5,Packaging zabardast thi.,2025-04-16 15:45:45.995018
+697,640,1024,4,Price ke hisaab se acha hai.,2025-10-10 15:45:45.995020
+698,879,2433,5,Quality thori average thi.,2025-09-24 15:45:45.995022
+699,740,698,4,Quality thori average thi.,2025-12-05 15:45:45.995024
+700,812,2868,3,Delivery time par mil gaya.,2025-04-18 15:45:45.995026
+701,23,2598,5,Packaging zabardast thi.,2025-07-30 15:45:45.995029
+702,910,1914,5,Packaging zabardast thi.,2025-04-22 15:45:45.995031
+703,591,351,5,Price ke hisaab se acha hai.,2025-11-23 15:45:45.995033
+704,657,994,5,Original product hai.,2025-08-11 15:45:45.995036
+705,44,1701,4,Delivery time par mil gaya.,2025-08-28 15:45:45.995038
+706,341,881,5,Packaging zabardast thi.,2025-12-15 15:45:45.995040
+707,958,2281,5,Price ke hisaab se acha hai.,2025-06-17 15:45:45.995042
+708,82,2629,4,Bohat achi quality hai.,2025-10-18 15:45:45.995044
+709,886,2243,4,Original product hai.,2025-09-04 15:45:45.995046
+710,692,1818,3,Delivery time par mil gaya.,2025-12-05 15:45:45.995048
+711,528,2396,3,Price ke hisaab se acha hai.,2026-02-10 15:45:45.995050
+712,796,2129,3,Price ke hisaab se acha hai.,2025-07-04 15:45:45.995052
+713,382,2823,3,Bohat achi quality hai.,2025-12-21 15:45:45.995054
+714,53,2746,3,Packaging zabardast thi.,2025-03-13 15:45:45.995056
+715,622,794,4,Delivery time par mil gaya.,2025-07-16 15:45:45.995058
+716,251,2183,3,Bohat achi quality hai.,2025-09-03 15:45:45.995060
+717,930,519,3,Price ke hisaab se acha hai.,2025-10-13 15:45:45.995062
+718,813,2730,5,Delivery time par mil gaya.,2025-10-20 15:45:45.995064
+719,461,678,3,Packaging zabardast thi.,2025-03-15 15:45:45.995068
+720,2,828,5,Delivery time par mil gaya.,2025-02-15 15:45:45.995071
+721,6,2412,3,Original product hai.,2025-07-08 15:45:45.995075
+722,468,2199,3,Packaging zabardast thi.,2025-09-28 15:45:45.995078
+723,221,2530,3,Price ke hisaab se acha hai.,2025-02-14 15:45:45.995081
+724,467,2904,5,Price ke hisaab se acha hai.,2025-12-11 15:45:45.995084
+725,913,1809,5,Quality thori average thi.,2025-11-23 15:45:45.995087
+726,99,46,4,Bohat achi quality hai.,2025-09-02 15:45:45.995090
+727,726,1708,3,Delivery time par mil gaya.,2026-01-10 15:45:45.995093
+728,97,309,4,Bohat achi quality hai.,2025-05-03 15:45:45.995096
+729,199,941,3,Bohat achi quality hai.,2025-11-09 15:45:45.995099
+730,697,1402,3,Bohat achi quality hai.,2025-07-22 15:45:45.995103
+731,454,1221,3,Price ke hisaab se acha hai.,2025-05-06 15:45:45.995106
+732,72,521,3,Packaging zabardast thi.,2025-08-05 15:45:45.995109
+733,377,499,5,Packaging zabardast thi.,2025-04-26 15:45:45.995112
+734,569,162,3,Price ke hisaab se acha hai.,2025-04-26 15:45:45.995116
+735,278,1901,4,Price ke hisaab se acha hai.,2026-01-27 15:45:45.995119
+736,282,1813,3,Price ke hisaab se acha hai.,2025-06-01 15:45:45.995122
+737,787,1902,4,Packaging zabardast thi.,2025-12-23 15:45:45.995126
+738,479,1319,5,Bohat achi quality hai.,2025-07-06 15:45:45.995130
+739,631,917,4,Delivery time par mil gaya.,2025-03-17 15:45:45.995133
+740,695,1063,3,Original product hai.,2025-03-02 15:45:45.995137
+741,120,586,4,Quality thori average thi.,2025-06-28 15:45:45.995140
+742,847,2342,3,Original product hai.,2025-08-12 15:45:45.995144
+743,198,132,5,Original product hai.,2025-04-19 15:45:45.995147
+744,699,404,5,Original product hai.,2025-03-21 15:45:45.995151
+745,531,1228,3,Quality thori average thi.,2025-07-30 15:45:45.995154
+746,383,248,3,Quality thori average thi.,2026-01-22 15:45:45.995157
+747,536,591,4,Delivery time par mil gaya.,2025-11-08 15:45:45.995161
+748,837,2475,5,Quality thori average thi.,2025-09-08 15:45:45.995164
+749,691,846,4,Delivery time par mil gaya.,2025-03-09 15:45:45.995167
+750,335,2131,4,Packaging zabardast thi.,2025-10-03 15:45:45.995170
+751,746,2076,5,Quality thori average thi.,2025-08-26 15:45:45.995173
+752,393,1537,5,Price ke hisaab se acha hai.,2025-12-18 15:45:45.995177
+753,603,1198,5,Delivery time par mil gaya.,2025-07-15 15:45:45.995180
+754,317,43,4,Bohat achi quality hai.,2026-01-05 15:45:45.995183
+755,50,144,5,Original product hai.,2026-01-17 15:45:45.995187
+756,394,52,4,Quality thori average thi.,2025-02-17 15:45:45.995191
+757,756,77,5,Price ke hisaab se acha hai.,2025-12-16 15:45:45.995194
+758,335,2982,3,Delivery time par mil gaya.,2025-09-02 15:45:45.995197
+759,746,8,3,Delivery time par mil gaya.,2025-05-23 15:45:45.995235
+760,909,2040,5,Original product hai.,2025-11-28 15:45:45.995239
+761,189,207,5,Original product hai.,2025-07-06 15:45:45.995242
+762,804,2754,5,Price ke hisaab se acha hai.,2025-03-03 15:45:45.995250
+763,629,1504,4,Bohat achi quality hai.,2025-12-28 15:45:45.995254
+764,944,1829,5,Delivery time par mil gaya.,2025-08-20 15:45:45.995259
+765,254,2830,5,Quality thori average thi.,2025-10-31 15:45:45.995262
+766,901,86,4,Price ke hisaab se acha hai.,2025-03-12 15:45:45.995266
+767,123,318,4,Quality thori average thi.,2025-04-20 15:45:45.995269
+768,461,486,4,Original product hai.,2025-06-16 15:45:45.995284
+769,773,2569,3,Packaging zabardast thi.,2025-09-21 15:45:45.995287
+770,155,1363,5,Bohat achi quality hai.,2025-03-18 15:45:45.995290
+771,226,253,4,Delivery time par mil gaya.,2025-09-29 15:45:45.995293
+772,281,1290,4,Quality thori average thi.,2025-08-06 15:45:45.995296
+773,61,1217,4,Price ke hisaab se acha hai.,2025-10-29 15:45:45.995299
+774,875,695,5,Original product hai.,2025-08-21 15:45:45.995302
+775,765,2729,3,Price ke hisaab se acha hai.,2025-04-14 15:45:45.995305
+776,622,1440,4,Original product hai.,2025-05-09 15:45:45.995309
+777,448,2254,5,Bohat achi quality hai.,2025-12-31 15:45:45.995312
+778,509,2511,5,Original product hai.,2025-12-14 15:45:45.995315
+779,431,569,4,Price ke hisaab se acha hai.,2025-08-29 15:45:45.995318
+780,142,1032,4,Delivery time par mil gaya.,2025-11-06 15:45:45.995321
+781,145,2319,3,Price ke hisaab se acha hai.,2025-06-02 15:45:45.995324
+782,844,2187,5,Original product hai.,2025-08-07 15:45:45.995328
+783,465,605,4,Quality thori average thi.,2025-07-10 15:45:45.995339
+784,636,640,5,Packaging zabardast thi.,2026-01-21 15:45:45.995342
+785,383,1996,3,Original product hai.,2025-04-28 15:45:45.995345
+786,477,2841,4,Bohat achi quality hai.,2026-01-07 15:45:45.995349
+787,456,2734,3,Original product hai.,2025-04-24 15:45:45.995352
+788,986,171,5,Delivery time par mil gaya.,2025-12-28 15:45:45.995355
+789,750,2332,3,Price ke hisaab se acha hai.,2025-06-07 15:45:45.995359
+790,58,2501,5,Quality thori average thi.,2025-07-30 15:45:45.995361
+791,510,376,4,Original product hai.,2025-07-14 15:45:45.995364
+792,962,901,5,Price ke hisaab se acha hai.,2025-07-08 15:45:45.995367
+793,6,1831,4,Bohat achi quality hai.,2025-11-23 15:45:45.995370
+794,291,2405,5,Original product hai.,2025-04-17 15:45:45.995373
+795,525,1473,3,Price ke hisaab se acha hai.,2025-10-20 15:45:45.995380
+796,489,465,5,Original product hai.,2026-01-13 15:45:45.995383
+797,749,1790,4,Packaging zabardast thi.,2025-05-16 15:45:45.995386
+798,228,431,5,Bohat achi quality hai.,2025-06-26 15:45:45.995390
+799,952,2425,3,Delivery time par mil gaya.,2025-09-02 15:45:45.995393
+800,562,426,4,Delivery time par mil gaya.,2025-06-29 15:45:45.995396
+801,199,1361,3,Bohat achi quality hai.,2025-04-03 15:45:45.995399
+802,588,2707,5,Original product hai.,2026-01-14 15:45:45.995402
+803,910,27,4,Delivery time par mil gaya.,2025-10-17 15:45:45.995407
+804,20,1600,5,Quality thori average thi.,2025-09-15 15:45:45.995410
+805,8,2327,3,Quality thori average thi.,2025-11-30 15:45:45.995413
+806,723,2483,3,Delivery time par mil gaya.,2025-09-16 15:45:45.995415
+807,306,1564,3,Bohat achi quality hai.,2026-01-28 15:45:45.995418
+808,916,1455,3,Packaging zabardast thi.,2026-01-15 15:45:45.995422
+809,37,1574,3,Quality thori average thi.,2025-06-30 15:45:45.995425
+810,239,1510,4,Original product hai.,2026-01-20 15:45:45.995428
+811,961,325,4,Original product hai.,2025-05-03 15:45:45.995432
+812,250,2105,3,Quality thori average thi.,2025-03-15 15:45:45.995435
+813,226,2280,5,Bohat achi quality hai.,2025-05-06 15:45:45.995438
+814,351,80,4,Packaging zabardast thi.,2026-01-25 15:45:45.995442
+815,986,1519,3,Original product hai.,2025-11-05 15:45:45.995445
+816,126,324,5,Delivery time par mil gaya.,2025-05-27 15:45:45.995448
+817,595,1221,5,Delivery time par mil gaya.,2025-02-27 15:45:45.995451
+818,568,327,5,Original product hai.,2025-09-10 15:45:45.995454
+819,373,114,5,Quality thori average thi.,2025-05-29 15:45:45.995458
+820,628,2965,3,Original product hai.,2026-01-22 15:45:45.995461
+821,940,2831,4,Price ke hisaab se acha hai.,2025-11-27 15:45:45.995464
+822,204,1065,4,Delivery time par mil gaya.,2025-05-16 15:45:45.995467
+823,448,355,3,Delivery time par mil gaya.,2025-08-06 15:45:45.995470
+824,852,2777,5,Price ke hisaab se acha hai.,2025-04-08 15:45:45.995473
+825,924,1425,4,Quality thori average thi.,2025-04-30 15:45:45.995477
+826,140,2015,5,Quality thori average thi.,2025-07-27 15:45:45.995480
+827,458,979,5,Delivery time par mil gaya.,2025-05-30 15:45:45.995483
+828,273,1552,3,Original product hai.,2025-08-08 15:45:45.995487
+829,825,2984,4,Delivery time par mil gaya.,2025-10-30 15:45:45.995490
+830,157,1689,3,Bohat achi quality hai.,2025-09-28 15:45:45.995493
+831,705,1052,4,Price ke hisaab se acha hai.,2025-10-01 15:45:45.995496
+832,339,2839,3,Packaging zabardast thi.,2026-01-08 15:45:45.995501
+833,960,1619,3,Price ke hisaab se acha hai.,2025-05-06 15:45:45.995504
+834,124,1650,3,Price ke hisaab se acha hai.,2025-08-31 15:45:45.995507
+835,179,2810,3,Quality thori average thi.,2025-08-03 15:45:45.995510
+836,278,1475,3,Quality thori average thi.,2026-01-29 15:45:45.995513
+837,134,1389,5,Packaging zabardast thi.,2025-06-12 15:45:45.995516
+838,279,2319,3,Packaging zabardast thi.,2025-07-23 15:45:45.995519
+839,938,1272,4,Delivery time par mil gaya.,2026-02-03 15:45:45.995522
+840,889,2120,5,Packaging zabardast thi.,2025-04-18 15:45:45.995525
+841,900,227,4,Quality thori average thi.,2025-08-30 15:45:45.995528
+842,363,234,4,Delivery time par mil gaya.,2025-09-15 15:45:45.995532
+843,854,1031,3,Original product hai.,2025-12-12 15:45:45.995535
+844,651,1974,5,Original product hai.,2025-04-01 15:45:45.995538
+845,307,1095,3,Delivery time par mil gaya.,2026-02-04 15:45:45.995542
+846,910,2124,3,Original product hai.,2025-07-13 15:45:45.995545
+847,713,1982,4,Quality thori average thi.,2025-09-16 15:45:45.995551
+848,312,1708,3,Delivery time par mil gaya.,2025-06-06 15:45:45.995555
+849,827,2775,3,Bohat achi quality hai.,2025-04-20 15:45:45.995559
+850,831,2588,4,Delivery time par mil gaya.,2025-10-13 15:45:45.995562
+851,523,1244,4,Original product hai.,2025-06-22 15:45:45.995565
+852,870,1881,4,Price ke hisaab se acha hai.,2025-05-28 15:45:45.995569
+853,955,439,4,Packaging zabardast thi.,2025-12-05 15:45:45.995572
+854,537,577,3,Original product hai.,2025-05-10 15:45:45.995575
+855,341,1574,4,Packaging zabardast thi.,2025-05-22 15:45:45.995579
+856,281,659,4,Original product hai.,2025-03-02 15:45:45.995583
+857,413,859,3,Quality thori average thi.,2026-02-11 15:45:45.995587
+858,87,252,5,Bohat achi quality hai.,2025-11-06 15:45:45.995591
+859,770,2892,4,Packaging zabardast thi.,2025-02-26 15:45:45.995594
+860,813,1355,4,Quality thori average thi.,2025-06-30 15:45:45.995598
+861,598,920,3,Packaging zabardast thi.,2025-09-11 15:45:45.995602
+862,572,2565,3,Delivery time par mil gaya.,2026-01-23 15:45:45.995613
+863,800,1269,3,Price ke hisaab se acha hai.,2025-10-27 15:45:45.995616
+864,532,2824,3,Delivery time par mil gaya.,2025-08-04 15:45:45.995620
+865,645,1062,4,Packaging zabardast thi.,2025-11-26 15:45:45.995623
+866,940,698,5,Bohat achi quality hai.,2025-08-10 15:45:45.995627
+867,704,59,3,Price ke hisaab se acha hai.,2025-10-18 15:45:45.995630
+868,848,2166,3,Original product hai.,2025-06-04 15:45:45.995633
+869,604,2228,3,Packaging zabardast thi.,2025-12-20 15:45:45.995636
+870,937,680,4,Quality thori average thi.,2025-11-17 15:45:45.995639
+871,658,1839,5,Quality thori average thi.,2025-04-06 15:45:45.995642
+872,794,1326,5,Packaging zabardast thi.,2025-03-22 15:45:45.995645
+873,203,1163,5,Delivery time par mil gaya.,2025-07-05 15:45:45.995653
+874,829,927,4,Original product hai.,2026-01-11 15:45:45.995657
+875,138,2986,5,Packaging zabardast thi.,2026-01-11 15:45:45.995660
+876,590,1095,5,Original product hai.,2025-06-20 15:45:45.995663
+877,58,1763,4,Original product hai.,2026-01-03 15:45:45.995666
+878,930,1900,4,Price ke hisaab se acha hai.,2025-05-08 15:45:45.995669
+879,334,1147,5,Bohat achi quality hai.,2025-11-08 15:45:45.995673
+880,113,2861,3,Packaging zabardast thi.,2025-02-14 15:45:45.995676
+881,331,479,3,Price ke hisaab se acha hai.,2025-09-01 15:45:45.995679
+882,824,278,3,Bohat achi quality hai.,2025-03-16 15:45:45.995682
+883,739,1417,5,Bohat achi quality hai.,2025-04-20 15:45:45.995686
+884,455,738,3,Original product hai.,2025-10-21 15:45:45.995689
+885,802,2266,3,Price ke hisaab se acha hai.,2025-06-17 15:45:45.995692
+886,339,702,4,Bohat achi quality hai.,2025-10-03 15:45:45.995695
+887,86,1540,3,Packaging zabardast thi.,2025-08-16 15:45:45.995698
+888,403,1268,3,Packaging zabardast thi.,2025-04-10 15:45:45.995701
+889,810,2264,3,Price ke hisaab se acha hai.,2025-06-05 15:45:45.995704
+890,525,2726,4,Quality thori average thi.,2025-03-11 15:45:45.995707
+891,392,1257,5,Price ke hisaab se acha hai.,2025-04-12 15:45:45.995711
+892,739,2154,5,Bohat achi quality hai.,2025-12-05 15:45:45.995714
+893,623,21,4,Quality thori average thi.,2025-08-04 15:45:45.995717
+894,542,1485,3,Delivery time par mil gaya.,2025-07-21 15:45:45.995721
+895,716,1573,4,Delivery time par mil gaya.,2025-06-11 15:45:45.995724
+896,359,194,3,Packaging zabardast thi.,2025-05-03 15:45:45.995729
+897,519,2348,3,Delivery time par mil gaya.,2026-01-07 15:45:45.995732
+898,927,303,4,Delivery time par mil gaya.,2025-03-26 15:45:45.995735
+899,426,2141,4,Price ke hisaab se acha hai.,2025-11-13 15:45:45.995741
+900,920,2501,3,Quality thori average thi.,2025-04-24 15:45:45.995745
+901,720,2538,3,Original product hai.,2025-10-14 15:45:45.995748
+902,336,2906,3,Quality thori average thi.,2025-04-22 15:45:45.995751
+903,939,1047,5,Original product hai.,2025-06-22 15:45:45.995755
+904,962,1152,4,Price ke hisaab se acha hai.,2025-10-03 15:45:45.995758
+905,213,846,5,Original product hai.,2025-12-04 15:45:45.995761
+906,203,706,4,Delivery time par mil gaya.,2025-03-04 15:45:45.995764
+907,924,546,5,Original product hai.,2025-02-21 15:45:45.995768
+908,667,886,3,Quality thori average thi.,2025-06-29 15:45:45.995771
+909,163,2761,3,Packaging zabardast thi.,2025-07-13 15:45:45.995774
+910,32,2282,3,Packaging zabardast thi.,2026-01-13 15:45:45.995777
+911,878,2759,3,Packaging zabardast thi.,2026-01-02 15:45:45.995783
+912,181,2372,5,Price ke hisaab se acha hai.,2025-08-22 15:45:45.995787
+913,590,1463,3,Packaging zabardast thi.,2025-12-26 15:45:45.995790
+914,623,730,5,Delivery time par mil gaya.,2025-11-07 15:45:45.995793
+915,339,2021,3,Original product hai.,2025-02-18 15:45:45.995797
+916,457,1490,5,Packaging zabardast thi.,2025-07-25 15:45:45.995801
+917,456,1625,3,Packaging zabardast thi.,2025-12-04 15:45:45.995804
+918,880,2714,3,Price ke hisaab se acha hai.,2025-08-21 15:45:45.995807
+919,337,855,5,Packaging zabardast thi.,2025-09-13 15:45:45.995811
+920,552,2154,5,Delivery time par mil gaya.,2025-02-25 15:45:45.995814
+921,208,848,5,Delivery time par mil gaya.,2025-12-09 15:45:45.995819
+922,903,221,4,Delivery time par mil gaya.,2026-01-23 15:45:45.995823
+923,712,2516,4,Packaging zabardast thi.,2025-06-28 15:45:45.995826
+924,381,2550,5,Price ke hisaab se acha hai.,2025-04-09 15:45:45.995830
+925,521,1981,4,Original product hai.,2025-07-10 15:45:45.995834
+926,751,1605,3,Quality thori average thi.,2025-08-17 15:45:45.995838
+927,769,1311,4,Packaging zabardast thi.,2025-11-24 15:45:45.995841
+928,635,2388,5,Quality thori average thi.,2026-01-24 15:45:45.995844
+929,264,158,5,Quality thori average thi.,2025-10-24 15:45:45.995847
+930,146,1651,5,Bohat achi quality hai.,2025-09-24 15:45:45.995855
+931,474,1890,4,Bohat achi quality hai.,2025-02-24 15:45:45.995859
+932,850,2667,5,Bohat achi quality hai.,2025-06-08 15:45:45.995862
+933,417,951,5,Price ke hisaab se acha hai.,2025-03-16 15:45:45.995865
+934,104,1148,4,Price ke hisaab se acha hai.,2025-04-10 15:45:45.995869
+935,456,458,4,Packaging zabardast thi.,2025-07-28 15:45:45.995873
+936,169,799,3,Quality thori average thi.,2025-06-10 15:45:45.995876
+937,165,2701,3,Original product hai.,2025-07-01 15:45:45.995880
+938,278,2509,5,Delivery time par mil gaya.,2025-11-14 15:45:45.995883
+939,911,1867,4,Delivery time par mil gaya.,2026-01-29 15:45:45.995887
+940,298,481,5,Price ke hisaab se acha hai.,2025-08-31 15:45:45.995890
+941,783,2822,5,Delivery time par mil gaya.,2025-03-02 15:45:45.995893
+942,551,609,4,Delivery time par mil gaya.,2025-07-28 15:45:45.995896
+943,154,1209,5,Original product hai.,2025-07-22 15:45:45.995900
+944,238,2353,5,Quality thori average thi.,2025-03-09 15:45:45.995903
+945,632,883,4,Price ke hisaab se acha hai.,2025-10-26 15:45:45.995906
+946,909,2705,3,Original product hai.,2025-11-29 15:45:45.995912
+947,928,351,4,Quality thori average thi.,2026-02-06 15:45:45.995916
+948,625,2589,5,Price ke hisaab se acha hai.,2025-06-25 15:45:45.995920
+949,757,1319,5,Original product hai.,2026-02-14 15:45:45.995924
+950,344,908,5,Delivery time par mil gaya.,2025-10-07 15:45:45.995927
+951,332,2263,5,Quality thori average thi.,2025-08-29 15:45:45.995930
+952,341,19,4,Packaging zabardast thi.,2025-03-22 15:45:45.995934
+953,694,1857,3,Delivery time par mil gaya.,2025-10-22 15:45:45.995937
+954,24,2099,4,Price ke hisaab se acha hai.,2025-10-23 15:45:45.995940
+955,344,1979,4,Bohat achi quality hai.,2025-05-21 15:45:45.995946
+956,78,1154,3,Packaging zabardast thi.,2025-09-08 15:45:45.995949
+957,651,2371,3,Price ke hisaab se acha hai.,2025-06-30 15:45:45.995953
+958,74,2980,5,Original product hai.,2025-04-07 15:45:45.995957
+959,691,296,5,Packaging zabardast thi.,2025-11-23 15:45:45.995961
+960,521,2021,4,Delivery time par mil gaya.,2026-01-27 15:45:45.995967
+961,633,2660,3,Price ke hisaab se acha hai.,2025-05-16 15:45:45.995972
+962,83,2128,3,Price ke hisaab se acha hai.,2026-01-09 15:45:45.995975
+963,976,1324,5,Packaging zabardast thi.,2025-05-08 15:45:45.995979
+964,366,1859,4,Delivery time par mil gaya.,2025-07-02 15:45:45.995984
+965,200,2685,5,Price ke hisaab se acha hai.,2025-11-13 15:45:45.995986
+966,31,113,3,Bohat achi quality hai.,2025-03-12 15:45:45.995989
+967,72,1087,3,Packaging zabardast thi.,2025-12-20 15:45:45.995992
+968,746,256,5,Packaging zabardast thi.,2025-10-29 15:45:45.995995
+969,112,1268,3,Quality thori average thi.,2025-10-13 15:45:45.995998
+970,892,2848,3,Packaging zabardast thi.,2025-06-02 15:45:45.996001
+971,999,2943,4,Bohat achi quality hai.,2025-03-16 15:45:45.996005
+972,339,2467,3,Bohat achi quality hai.,2026-02-02 15:45:45.996009
+973,666,93,4,Bohat achi quality hai.,2025-04-22 15:45:45.996012
+974,648,1474,4,Original product hai.,2025-02-27 15:45:45.996018
+975,311,2683,3,Bohat achi quality hai.,2025-10-17 15:45:45.996025
+976,984,383,4,Quality thori average thi.,2025-02-16 15:45:45.996028
+977,465,2247,3,Quality thori average thi.,2025-10-04 15:45:45.996031
+978,740,444,5,Delivery time par mil gaya.,2025-07-15 15:45:45.996034
+979,70,1794,3,Delivery time par mil gaya.,2025-06-04 15:45:45.996037
+980,189,1539,5,Price ke hisaab se acha hai.,2025-06-03 15:45:45.996040
+981,261,1590,3,Quality thori average thi.,2025-09-16 15:45:45.996043
+982,457,2126,4,Price ke hisaab se acha hai.,2025-06-18 15:45:45.996047
+983,50,17,5,Packaging zabardast thi.,2026-02-06 15:45:45.996050
+984,45,2028,4,Delivery time par mil gaya.,2026-02-06 15:45:45.996053
+985,147,1840,4,Bohat achi quality hai.,2025-05-19 15:45:45.996056
+986,901,1730,3,Quality thori average thi.,2025-12-29 15:45:45.996059
+987,337,2545,4,Packaging zabardast thi.,2025-06-21 15:45:45.996062
+988,233,2581,4,Bohat achi quality hai.,2025-08-29 15:45:45.996066
+989,286,1724,5,Bohat achi quality hai.,2025-03-28 15:45:45.996068
+990,334,907,3,Quality thori average thi.,2025-11-28 15:45:45.996072
+991,87,580,4,Bohat achi quality hai.,2025-12-14 15:45:45.996075
+992,393,1053,4,Packaging zabardast thi.,2025-04-29 15:45:45.996078
+993,925,2913,3,Delivery time par mil gaya.,2025-09-11 15:45:45.996081
+994,878,2418,4,Bohat achi quality hai.,2025-10-04 15:45:45.996084
+995,420,2098,4,Price ke hisaab se acha hai.,2026-01-17 15:45:45.996087
+996,540,1320,4,Delivery time par mil gaya.,2026-01-19 15:45:45.996090
+997,603,2245,5,Original product hai.,2025-06-10 15:45:45.996093
+998,728,1869,4,Original product hai.,2025-05-17 15:45:45.996096
+999,735,2213,5,Original product hai.,2026-02-06 15:45:45.996099
+1000,556,712,5,Original product hai.,2025-09-20 15:45:45.996102
+1001,220,999,5,Packaging zabardast thi.,2025-06-13 15:45:45.996105
+1002,107,2068,3,Price ke hisaab se acha hai.,2026-01-08 15:45:45.996108
+1003,638,2015,3,Original product hai.,2025-06-07 15:45:45.996110
+1004,140,889,4,Price ke hisaab se acha hai.,2025-04-08 15:45:45.996113
+1005,639,1638,3,Original product hai.,2025-11-07 15:45:45.996116
+1006,178,1529,4,Packaging zabardast thi.,2025-12-10 15:45:45.996119
+1007,28,1865,5,Quality thori average thi.,2025-06-18 15:45:45.996122
+1008,667,2820,3,Packaging zabardast thi.,2025-10-24 15:45:45.996126
+1009,237,2329,5,Bohat achi quality hai.,2025-07-12 15:45:45.996129
+1010,196,1926,4,Original product hai.,2026-01-24 15:45:45.996131
+1011,728,2692,3,Quality thori average thi.,2025-05-05 15:45:45.996134
+1012,217,1620,5,Quality thori average thi.,2025-05-31 15:45:45.996138
+1013,534,310,4,Quality thori average thi.,2025-03-22 15:45:45.996141
+1014,630,1610,5,Bohat achi quality hai.,2025-05-26 15:45:45.996146
+1015,841,993,3,Quality thori average thi.,2025-08-28 15:45:45.996149
+1016,332,191,3,Quality thori average thi.,2026-01-10 15:45:45.996152
+1017,815,1626,4,Quality thori average thi.,2025-07-26 15:45:45.996196
+1018,140,917,5,Original product hai.,2025-04-18 15:45:45.996199
+1019,523,715,5,Packaging zabardast thi.,2025-05-15 15:45:45.996201
+1020,390,2162,3,Bohat achi quality hai.,2025-06-23 15:45:45.996203
+1021,738,1405,5,Bohat achi quality hai.,2025-07-10 15:45:45.996205
+1022,631,2833,3,Packaging zabardast thi.,2026-02-08 15:45:45.996207
+1023,689,21,3,Quality thori average thi.,2025-07-03 15:45:45.996209
+1024,892,2571,4,Original product hai.,2025-09-20 15:45:45.996212
+1025,661,599,4,Original product hai.,2025-10-20 15:45:45.996214
+1026,363,1529,3,Packaging zabardast thi.,2025-05-06 15:45:45.996216
+1027,732,2500,3,Original product hai.,2025-12-17 15:45:45.996218
+1028,388,1721,3,Packaging zabardast thi.,2025-02-14 15:45:45.996220
+1029,742,632,4,Quality thori average thi.,2025-05-28 15:45:45.996222
+1030,569,1788,5,Delivery time par mil gaya.,2025-12-22 15:45:45.996224
+1031,129,2289,5,Packaging zabardast thi.,2025-11-16 15:45:45.996226
+1032,707,1231,3,Bohat achi quality hai.,2025-04-16 15:45:45.996228
+1033,594,1206,4,Delivery time par mil gaya.,2025-08-23 15:45:45.996230
+1034,411,1046,4,Original product hai.,2025-03-15 15:45:45.996232
+1035,960,1792,5,Bohat achi quality hai.,2025-09-23 15:45:45.996234
+1036,557,1086,5,Packaging zabardast thi.,2025-11-13 15:45:45.996235
+1037,892,2755,3,Price ke hisaab se acha hai.,2025-10-29 15:45:45.996237
+1038,984,1822,5,Original product hai.,2025-03-24 15:45:45.996239
+1039,476,2970,4,Price ke hisaab se acha hai.,2025-02-17 15:45:45.996241
+1040,554,1824,3,Quality thori average thi.,2025-12-22 15:45:45.996243
+1041,793,2539,3,Price ke hisaab se acha hai.,2025-10-20 15:45:45.996246
+1042,858,442,4,Bohat achi quality hai.,2025-12-27 15:45:45.996249
+1043,297,2746,3,Bohat achi quality hai.,2026-01-12 15:45:45.996251
+1044,387,1738,3,Quality thori average thi.,2025-08-26 15:45:45.996253
+1045,880,253,3,Packaging zabardast thi.,2025-10-16 15:45:45.996254
+1046,482,2897,3,Quality thori average thi.,2025-11-15 15:45:45.996256
+1047,195,2734,3,Quality thori average thi.,2025-11-13 15:45:45.996258
+1048,739,2919,4,Packaging zabardast thi.,2025-06-01 15:45:45.996260
+1049,819,338,5,Bohat achi quality hai.,2025-06-09 15:45:45.996262
+1050,725,1560,3,Quality thori average thi.,2025-03-20 15:45:45.996264
+1051,395,820,5,Packaging zabardast thi.,2025-10-24 15:45:45.996266
+1052,988,1174,3,Price ke hisaab se acha hai.,2025-12-09 15:45:45.996268
+1053,424,1801,5,Packaging zabardast thi.,2025-12-23 15:45:45.996270
+1054,527,1321,4,Bohat achi quality hai.,2025-08-02 15:45:45.996272
+1055,321,511,5,Packaging zabardast thi.,2025-07-24 15:45:45.996274
+1056,196,2437,4,Packaging zabardast thi.,2025-09-26 15:45:45.996276
+1057,792,2929,4,Bohat achi quality hai.,2025-11-13 15:45:45.996278
+1058,630,1944,4,Packaging zabardast thi.,2025-07-26 15:45:45.996280
+1059,907,1250,3,Original product hai.,2025-09-14 15:45:45.996282
+1060,617,1665,5,Price ke hisaab se acha hai.,2025-05-05 15:45:45.996284
+1061,209,2087,3,Price ke hisaab se acha hai.,2026-01-06 15:45:45.996286
+1062,742,1472,5,Original product hai.,2025-04-05 15:45:45.996288
+1063,739,2229,3,Delivery time par mil gaya.,2025-09-07 15:45:45.996290
+1064,341,1583,4,Packaging zabardast thi.,2026-01-21 15:45:45.996292
+1065,774,394,4,Price ke hisaab se acha hai.,2025-09-11 15:45:45.996295
+1066,309,411,3,Original product hai.,2025-07-03 15:45:45.996296
+1067,21,1184,5,Original product hai.,2025-07-18 15:45:45.996298
+1068,767,2131,3,Delivery time par mil gaya.,2025-05-29 15:45:45.996300
+1069,896,922,4,Packaging zabardast thi.,2025-09-03 15:45:45.996303
+1070,935,2491,4,Packaging zabardast thi.,2025-08-04 15:45:45.996304
+1071,16,2313,4,Quality thori average thi.,2026-02-10 15:45:45.996306
+1072,443,2649,3,Original product hai.,2025-04-19 15:45:45.996308
+1073,292,1087,3,Price ke hisaab se acha hai.,2025-11-24 15:45:45.996310
+1074,616,356,3,Quality thori average thi.,2025-04-17 15:45:45.996312
+1075,743,78,5,Quality thori average thi.,2025-10-26 15:45:45.996314
+1076,433,2658,3,Delivery time par mil gaya.,2025-12-11 15:45:45.996316
+1077,261,855,4,Bohat achi quality hai.,2025-02-27 15:45:45.996318
+1078,261,1447,4,Bohat achi quality hai.,2025-12-03 15:45:45.996320
+1079,389,796,3,Bohat achi quality hai.,2025-07-03 15:45:45.996322
+1080,456,63,4,Original product hai.,2025-05-07 15:45:45.996325
+1081,28,2384,5,Price ke hisaab se acha hai.,2025-10-28 15:45:45.996326
+1082,959,1090,4,Quality thori average thi.,2025-11-04 15:45:45.996328
+1083,897,2063,4,Packaging zabardast thi.,2025-03-03 15:45:45.996330
+1084,602,2341,3,Price ke hisaab se acha hai.,2025-09-21 15:45:45.996332
+1085,316,1428,4,Quality thori average thi.,2025-12-08 15:45:45.996334
+1086,995,830,4,Price ke hisaab se acha hai.,2025-11-20 15:45:45.996336
+1087,873,83,5,Bohat achi quality hai.,2025-07-23 15:45:45.996338
+1088,630,1693,5,Delivery time par mil gaya.,2025-04-30 15:45:45.996341
+1089,268,1323,5,Delivery time par mil gaya.,2025-07-26 15:45:45.996343
+1090,392,2850,4,Packaging zabardast thi.,2025-06-26 15:45:45.996345
+1091,212,1793,3,Price ke hisaab se acha hai.,2025-03-20 15:45:45.996347
+1092,952,584,4,Delivery time par mil gaya.,2025-08-28 15:45:45.996349
+1093,303,2415,3,Bohat achi quality hai.,2026-01-27 15:45:45.996351
+1094,540,926,3,Packaging zabardast thi.,2025-02-28 15:45:45.996353
+1095,302,795,4,Packaging zabardast thi.,2025-04-17 15:45:45.996355
+1096,61,1969,3,Delivery time par mil gaya.,2025-11-16 15:45:45.996357
+1097,266,839,5,Packaging zabardast thi.,2026-01-16 15:45:45.996359
+1098,994,2190,5,Quality thori average thi.,2025-12-16 15:45:45.996361
+1099,337,63,3,Delivery time par mil gaya.,2025-07-17 15:45:45.996363
+1100,317,1770,3,Delivery time par mil gaya.,2025-07-10 15:45:45.996364
+1101,332,2288,4,Original product hai.,2025-04-08 15:45:45.996367
+1102,86,346,3,Price ke hisaab se acha hai.,2025-04-05 15:45:45.996369
+1103,386,2338,5,Bohat achi quality hai.,2025-02-24 15:45:45.996374
+1104,800,2679,5,Quality thori average thi.,2025-03-10 15:45:45.996376
+1105,188,845,4,Price ke hisaab se acha hai.,2025-04-18 15:45:45.996378
+1106,854,2798,4,Original product hai.,2025-09-08 15:45:45.996380
+1107,799,1557,5,Bohat achi quality hai.,2026-01-06 15:45:45.996382
+1108,324,2840,3,Packaging zabardast thi.,2025-02-16 15:45:45.996384
+1109,544,2941,4,Original product hai.,2025-12-24 15:45:45.996386
+1110,715,138,4,Delivery time par mil gaya.,2025-02-22 15:45:45.996390
+1111,287,2715,5,Packaging zabardast thi.,2025-12-04 15:45:45.996393
+1112,67,1866,3,Delivery time par mil gaya.,2025-11-25 15:45:45.996396
+1113,218,881,4,Original product hai.,2025-07-24 15:45:45.996400
+1114,74,2384,3,Original product hai.,2025-10-03 15:45:45.996403
+1115,72,2249,4,Price ke hisaab se acha hai.,2025-03-02 15:45:45.996406
+1116,755,771,5,Quality thori average thi.,2025-03-10 15:45:45.996410
+1117,907,175,3,Price ke hisaab se acha hai.,2025-03-31 15:45:45.996413
+1118,502,766,3,Original product hai.,2025-04-27 15:45:45.996417
+1119,571,840,4,Packaging zabardast thi.,2025-05-17 15:45:45.996421
+1120,769,958,3,Bohat achi quality hai.,2025-03-06 15:45:45.996423
+1121,30,2388,4,Price ke hisaab se acha hai.,2025-11-13 15:45:45.996425
+1122,241,2659,5,Bohat achi quality hai.,2025-11-14 15:45:45.996427
+1123,556,549,4,Packaging zabardast thi.,2025-12-25 15:45:45.996429
+1124,983,2490,3,Quality thori average thi.,2025-06-18 15:45:45.996431
+1125,241,832,4,Quality thori average thi.,2025-10-11 15:45:45.996433
+1126,550,2543,5,Delivery time par mil gaya.,2025-06-28 15:45:45.996435
+1127,113,1902,5,Bohat achi quality hai.,2025-05-09 15:45:45.996436
+1128,819,413,5,Quality thori average thi.,2025-10-03 15:45:45.996439
+1129,611,516,3,Price ke hisaab se acha hai.,2025-06-13 15:45:45.996441
+1130,334,1204,4,Original product hai.,2025-05-15 15:45:45.996443
+1131,425,781,3,Packaging zabardast thi.,2025-04-06 15:45:45.996445
+1132,155,1319,5,Quality thori average thi.,2025-11-24 15:45:45.996447
+1133,354,2142,4,Quality thori average thi.,2025-08-03 15:45:45.996449
+1134,647,195,5,Bohat achi quality hai.,2025-06-10 15:45:45.996451
+1135,421,2283,4,Bohat achi quality hai.,2025-08-04 15:45:45.996453
+1136,397,882,5,Delivery time par mil gaya.,2025-08-24 15:45:45.996455
+1137,909,1000,4,Price ke hisaab se acha hai.,2025-05-31 15:45:45.996457
+1138,980,1851,3,Bohat achi quality hai.,2025-10-02 15:45:45.996459
+1139,475,525,4,Price ke hisaab se acha hai.,2025-04-11 15:45:45.996461
+1140,185,2916,3,Price ke hisaab se acha hai.,2025-04-27 15:45:45.996463
+1141,850,1129,5,Quality thori average thi.,2025-10-23 15:45:45.996465
+1142,274,1405,4,Packaging zabardast thi.,2025-08-05 15:45:45.996467
+1143,651,2522,5,Bohat achi quality hai.,2025-08-14 15:45:45.996469
+1144,18,2211,4,Bohat achi quality hai.,2025-08-13 15:45:45.996471
+1145,39,748,4,Bohat achi quality hai.,2025-03-11 15:45:45.996473
+1146,990,772,3,Original product hai.,2025-02-26 15:45:45.996475
+1147,721,2574,5,Packaging zabardast thi.,2026-01-14 15:45:45.996477
+1148,355,502,5,Price ke hisaab se acha hai.,2025-05-21 15:45:45.996479
+1149,766,1044,3,Price ke hisaab se acha hai.,2025-12-11 15:45:45.996481
+1150,260,1649,3,Delivery time par mil gaya.,2025-04-30 15:45:45.996483
+1151,556,1551,3,Original product hai.,2025-03-28 15:45:45.996486
+1152,752,1398,4,Delivery time par mil gaya.,2026-01-07 15:45:45.996488
+1153,647,1235,4,Packaging zabardast thi.,2025-07-19 15:45:45.996490
+1154,107,433,3,Delivery time par mil gaya.,2025-11-24 15:45:45.996493
+1155,805,625,5,Original product hai.,2025-10-17 15:45:45.996495
+1156,814,581,4,Price ke hisaab se acha hai.,2025-03-15 15:45:45.996497
+1157,315,2624,4,Price ke hisaab se acha hai.,2025-05-12 15:45:45.996500
+1158,353,23,3,Quality thori average thi.,2025-03-10 15:45:45.996502
+1159,317,1308,5,Delivery time par mil gaya.,2025-03-25 15:45:45.996504
+1160,72,2235,4,Original product hai.,2026-01-04 15:45:45.996506
+1161,387,37,3,Packaging zabardast thi.,2025-04-01 15:45:45.996508
+1162,906,1223,3,Bohat achi quality hai.,2025-12-22 15:45:45.996510
+1163,176,1752,4,Original product hai.,2025-05-21 15:45:45.996512
+1164,348,746,4,Bohat achi quality hai.,2025-06-30 15:45:45.996515
+1165,785,2959,5,Original product hai.,2025-04-14 15:45:45.996517
+1166,362,876,4,Quality thori average thi.,2026-01-27 15:45:45.996519
+1167,606,545,4,Packaging zabardast thi.,2025-10-08 15:45:45.996524
+1168,388,1894,4,Packaging zabardast thi.,2025-07-18 15:45:45.996527
+1169,37,183,3,Delivery time par mil gaya.,2025-05-26 15:45:45.996528
+1170,930,2243,4,Original product hai.,2025-04-17 15:45:45.996531
+1171,309,153,5,Packaging zabardast thi.,2025-03-16 15:45:45.996533
+1172,700,2527,3,Packaging zabardast thi.,2025-04-19 15:45:45.996535
+1173,216,747,3,Quality thori average thi.,2025-09-03 15:45:45.996537
+1174,234,2100,5,Packaging zabardast thi.,2025-08-11 15:45:45.996539
+1175,372,2893,5,Delivery time par mil gaya.,2025-07-13 15:45:45.996541
+1176,106,56,4,Original product hai.,2025-03-03 15:45:45.996543
+1177,131,1504,4,Quality thori average thi.,2025-03-05 15:45:45.996548
+1178,436,2162,4,Original product hai.,2025-10-30 15:45:45.996550
+1179,109,1401,3,Price ke hisaab se acha hai.,2025-02-14 15:45:45.996552
+1180,382,819,5,Quality thori average thi.,2026-01-05 15:45:45.996554
+1181,639,1672,3,Bohat achi quality hai.,2025-08-12 15:45:45.996556
+1182,962,2720,4,Bohat achi quality hai.,2025-11-09 15:45:45.996558
+1183,265,2213,4,Packaging zabardast thi.,2025-09-11 15:45:45.996560
+1184,837,2206,5,Price ke hisaab se acha hai.,2025-03-28 15:45:45.996562
+1185,868,1005,5,Delivery time par mil gaya.,2026-01-03 15:45:45.996564
+1186,127,451,4,Original product hai.,2025-04-15 15:45:45.996566
+1187,581,2421,5,Delivery time par mil gaya.,2025-04-20 15:45:45.996568
+1188,218,2809,4,Bohat achi quality hai.,2025-06-28 15:45:45.996570
+1189,384,2364,3,Price ke hisaab se acha hai.,2025-11-21 15:45:45.996572
+1190,714,1003,4,Price ke hisaab se acha hai.,2025-12-13 15:45:45.996574
+1191,527,1072,3,Delivery time par mil gaya.,2026-01-24 15:45:45.996576
+1192,615,2020,3,Packaging zabardast thi.,2025-03-31 15:45:45.996578
+1193,334,2828,3,Bohat achi quality hai.,2025-11-10 15:45:45.996579
+1194,473,847,4,Original product hai.,2026-01-21 15:45:45.996582
+1195,723,2266,4,Price ke hisaab se acha hai.,2025-12-19 15:45:45.996584
+1196,306,1754,4,Quality thori average thi.,2025-03-10 15:45:45.996585
+1197,770,48,3,Packaging zabardast thi.,2025-09-10 15:45:45.996587
+1198,369,487,3,Bohat achi quality hai.,2025-12-26 15:45:45.996589
+1199,733,1647,5,Packaging zabardast thi.,2025-12-20 15:45:45.996591
+1200,507,1919,4,Bohat achi quality hai.,2025-12-23 15:45:45.996594
+1201,327,1738,4,Packaging zabardast thi.,2026-02-02 15:45:45.996596
+1202,911,511,4,Original product hai.,2025-08-28 15:45:45.996598
+1203,528,2337,4,Bohat achi quality hai.,2025-07-20 15:45:45.996600
+1204,48,2704,4,Price ke hisaab se acha hai.,2026-01-16 15:45:45.996602
+1205,7,1523,5,Delivery time par mil gaya.,2026-02-06 15:45:45.996604
+1206,864,1889,3,Original product hai.,2025-08-13 15:45:45.996606
+1207,727,2220,5,Quality thori average thi.,2025-12-07 15:45:45.996608
+1208,303,683,4,Price ke hisaab se acha hai.,2026-02-09 15:45:45.996610
+1209,837,2035,3,Original product hai.,2025-10-28 15:45:45.996612
+1210,211,1978,4,Packaging zabardast thi.,2025-09-13 15:45:45.996614
+1211,639,2089,3,Original product hai.,2025-08-30 15:45:45.996616
+1212,96,2615,5,Packaging zabardast thi.,2025-04-09 15:45:45.996618
+1213,788,2710,3,Original product hai.,2025-10-07 15:45:45.996620
+1214,910,1036,4,Packaging zabardast thi.,2025-08-29 15:45:45.996621
+1215,249,833,5,Quality thori average thi.,2025-03-31 15:45:45.996624
+1216,845,2857,4,Bohat achi quality hai.,2026-01-13 15:45:45.996626
+1217,234,1121,5,Original product hai.,2025-12-22 15:45:45.996628
+1218,803,1948,4,Price ke hisaab se acha hai.,2025-02-20 15:45:45.996630
+1219,413,2679,4,Quality thori average thi.,2026-01-21 15:45:45.996632
+1220,851,669,3,Delivery time par mil gaya.,2025-07-17 15:45:45.996634
+1221,718,2889,5,Bohat achi quality hai.,2025-07-20 15:45:45.996636
+1222,416,1283,3,Bohat achi quality hai.,2025-08-08 15:45:45.996638
+1223,498,1309,3,Quality thori average thi.,2025-05-17 15:45:45.996640
+1224,924,2423,5,Price ke hisaab se acha hai.,2025-04-22 15:45:45.996642
+1225,378,2067,4,Delivery time par mil gaya.,2025-05-24 15:45:45.996644
+1226,626,742,5,Delivery time par mil gaya.,2025-04-27 15:45:45.996646
+1227,266,1960,3,Packaging zabardast thi.,2025-02-15 15:45:45.996648
+1228,244,39,3,Price ke hisaab se acha hai.,2025-03-22 15:45:45.996650
+1229,228,1662,3,Price ke hisaab se acha hai.,2025-11-22 15:45:45.996652
+1230,460,2931,3,Bohat achi quality hai.,2025-10-10 15:45:45.996654
+1231,351,2431,3,Price ke hisaab se acha hai.,2025-04-22 15:45:45.996658
+1232,951,571,3,Delivery time par mil gaya.,2025-03-05 15:45:45.996660
+1233,589,2920,4,Delivery time par mil gaya.,2025-07-28 15:45:45.996662
+1234,210,2040,5,Original product hai.,2025-05-12 15:45:45.996664
+1235,105,1695,5,Quality thori average thi.,2025-09-21 15:45:45.996666
+1236,42,232,4,Price ke hisaab se acha hai.,2025-02-28 15:45:45.996668
+1237,251,1536,5,Bohat achi quality hai.,2026-01-14 15:45:45.996670
+1238,883,1927,5,Original product hai.,2025-04-18 15:45:45.996672
+1239,578,1813,4,Quality thori average thi.,2026-01-30 15:45:45.996674
+1240,829,251,4,Original product hai.,2026-02-05 15:45:45.996676
+1241,992,215,5,Bohat achi quality hai.,2025-05-10 15:45:45.996678
+1242,503,336,3,Quality thori average thi.,2025-03-25 15:45:45.996680
+1243,507,1058,5,Price ke hisaab se acha hai.,2025-09-14 15:45:45.996682
+1244,235,423,5,Packaging zabardast thi.,2025-05-19 15:45:45.996684
+1245,680,2997,5,Quality thori average thi.,2025-08-07 15:45:45.996686
+1246,682,2619,4,Packaging zabardast thi.,2025-06-14 15:45:45.996691
+1247,670,2107,4,Price ke hisaab se acha hai.,2025-07-30 15:45:45.996693
+1248,98,2941,3,Price ke hisaab se acha hai.,2025-07-08 15:45:45.996695
+1249,667,2616,4,Quality thori average thi.,2025-07-25 15:45:45.996697
+1250,501,146,3,Price ke hisaab se acha hai.,2025-11-27 15:45:45.996698
+1251,959,795,3,Quality thori average thi.,2025-11-28 15:45:45.996701
+1252,692,1133,3,Original product hai.,2025-10-13 15:45:45.996703
+1253,186,420,3,Price ke hisaab se acha hai.,2025-10-11 15:45:45.996705
+1254,553,777,5,Price ke hisaab se acha hai.,2025-03-15 15:45:45.996707
+1255,282,647,5,Original product hai.,2025-05-03 15:45:45.996709
+1256,357,1495,4,Delivery time par mil gaya.,2025-05-28 15:45:45.996711
+1257,282,1707,3,Delivery time par mil gaya.,2026-01-14 15:45:45.996713
+1258,990,2799,3,Price ke hisaab se acha hai.,2025-11-08 15:45:45.996715
+1259,522,2011,5,Original product hai.,2025-05-25 15:45:45.996717
+1260,124,2448,5,Bohat achi quality hai.,2025-06-26 15:45:45.996720
+1261,367,259,5,Bohat achi quality hai.,2025-04-26 15:45:45.996721
+1262,253,2796,3,Original product hai.,2025-12-17 15:45:45.996723
+1263,202,258,4,Packaging zabardast thi.,2025-04-30 15:45:45.996726
+1264,242,375,3,Packaging zabardast thi.,2025-06-23 15:45:45.996728
+1265,59,683,5,Original product hai.,2025-07-01 15:45:45.996730
+1266,567,2165,4,Price ke hisaab se acha hai.,2025-11-12 15:45:45.996732
+1267,745,40,5,Price ke hisaab se acha hai.,2025-05-05 15:45:45.996734
+1268,357,2260,5,Original product hai.,2025-07-31 15:45:45.996736
+1269,987,1492,5,Price ke hisaab se acha hai.,2025-11-07 15:45:45.996738
+1270,333,245,4,Original product hai.,2025-05-02 15:45:45.996740
+1271,718,1685,4,Quality thori average thi.,2025-10-09 15:45:45.996742
+1272,360,690,5,Original product hai.,2025-05-26 15:45:45.996745
+1273,797,2883,4,Quality thori average thi.,2026-02-12 15:45:45.996747
+1274,680,2054,4,Quality thori average thi.,2025-09-27 15:45:45.996749
+1275,271,2251,3,Price ke hisaab se acha hai.,2025-02-17 15:45:45.996751
+1276,769,2672,4,Delivery time par mil gaya.,2025-06-10 15:45:45.996753
+1277,857,378,3,Bohat achi quality hai.,2025-04-10 15:45:45.996755
+1278,53,2316,4,Delivery time par mil gaya.,2025-09-24 15:45:45.996757
+1279,404,345,4,Original product hai.,2025-11-01 15:45:45.996759
+1280,703,1582,4,Delivery time par mil gaya.,2025-07-18 15:45:45.996761
+1281,641,721,4,Quality thori average thi.,2025-03-26 15:45:45.996763
+1282,279,1661,4,Quality thori average thi.,2025-06-04 15:45:45.996765
+1283,344,1273,3,Quality thori average thi.,2026-01-19 15:45:45.996767
+1284,399,1908,4,Original product hai.,2025-11-15 15:45:45.996769
+1285,798,1258,3,Original product hai.,2025-12-08 15:45:45.996771
+1286,871,1415,5,Quality thori average thi.,2025-09-23 15:45:45.996773
+1287,818,2807,3,Packaging zabardast thi.,2025-11-23 15:45:45.996775
+1288,203,1443,5,Bohat achi quality hai.,2025-12-07 15:45:45.996777
+1289,909,1306,4,Quality thori average thi.,2025-05-15 15:45:45.996779
+1290,174,2917,4,Quality thori average thi.,2025-07-14 15:45:45.996781
+1291,109,350,3,Delivery time par mil gaya.,2026-01-23 15:45:45.996783
+1292,409,741,5,Delivery time par mil gaya.,2025-02-23 15:45:45.996785
+1293,818,98,5,Quality thori average thi.,2025-05-23 15:45:45.996787
+1294,599,1887,3,Bohat achi quality hai.,2025-12-27 15:45:45.996789
+1295,459,2755,3,Packaging zabardast thi.,2025-09-08 15:45:45.996793
+1296,385,589,5,Packaging zabardast thi.,2025-11-27 15:45:45.996795
+1297,622,359,5,Packaging zabardast thi.,2025-09-05 15:45:45.996797
+1298,392,2748,4,Bohat achi quality hai.,2025-05-17 15:45:45.996799
+1299,848,1743,5,Bohat achi quality hai.,2026-01-01 15:45:45.996801
+1300,734,1149,3,Price ke hisaab se acha hai.,2025-02-23 15:45:45.996804
+1301,879,182,5,Original product hai.,2025-05-30 15:45:45.996805
+1302,709,2028,5,Quality thori average thi.,2026-01-25 15:45:45.996808
+1303,358,465,5,Quality thori average thi.,2025-07-08 15:45:45.996810
+1304,616,2753,5,Bohat achi quality hai.,2026-02-03 15:45:45.996812
+1305,147,838,5,Price ke hisaab se acha hai.,2025-11-07 15:45:45.996814
+1306,244,2874,3,Packaging zabardast thi.,2025-09-01 15:45:45.996816
+1307,197,165,3,Packaging zabardast thi.,2025-08-03 15:45:45.996817
+1308,905,881,3,Packaging zabardast thi.,2025-07-25 15:45:45.996819
+1309,949,800,4,Packaging zabardast thi.,2025-11-21 15:45:45.996821
+1310,528,2111,4,Delivery time par mil gaya.,2025-02-14 15:45:45.996823
+1311,507,1051,5,Delivery time par mil gaya.,2025-11-01 15:45:45.996825
+1312,416,2579,4,Bohat achi quality hai.,2025-12-23 15:45:45.996828
+1313,922,2760,3,Quality thori average thi.,2025-05-01 15:45:45.996830
+1314,70,2557,3,Delivery time par mil gaya.,2025-04-06 15:45:45.996832
+1315,684,17,5,Quality thori average thi.,2025-04-25 15:45:45.996834
+1316,753,2666,3,Original product hai.,2025-07-22 15:45:45.996836
+1317,479,1461,4,Price ke hisaab se acha hai.,2025-08-28 15:45:45.996838
+1318,515,2787,5,Original product hai.,2025-03-30 15:45:45.996840
+1319,209,657,4,Bohat achi quality hai.,2025-05-27 15:45:45.996842
+1320,410,2447,5,Packaging zabardast thi.,2025-04-07 15:45:45.996844
+1321,774,2395,4,Quality thori average thi.,2025-03-21 15:45:45.996846
+1322,476,191,4,Delivery time par mil gaya.,2025-09-06 15:45:45.996848
+1323,464,2111,3,Price ke hisaab se acha hai.,2025-12-15 15:45:45.996850
+1324,859,292,3,Bohat achi quality hai.,2025-09-14 15:45:45.996852
+1325,269,1809,3,Original product hai.,2025-09-25 15:45:45.996854
+1326,881,31,3,Quality thori average thi.,2026-01-03 15:45:45.996856
+1327,847,1588,4,Packaging zabardast thi.,2025-06-22 15:45:45.996857
+1328,435,1907,5,Packaging zabardast thi.,2026-01-22 15:45:45.996860
+1329,771,2886,4,Delivery time par mil gaya.,2025-08-10 15:45:45.996862
+1330,319,1008,4,Quality thori average thi.,2025-03-17 15:45:45.996864
+1331,411,2773,3,Delivery time par mil gaya.,2025-02-26 15:45:45.996866
+1332,899,238,4,Quality thori average thi.,2025-05-13 15:45:45.996868
+1333,602,2389,3,Delivery time par mil gaya.,2025-02-20 15:45:45.996870
+1334,199,1347,3,Price ke hisaab se acha hai.,2025-02-28 15:45:45.996872
+1335,972,2902,4,Packaging zabardast thi.,2025-05-15 15:45:45.996874
+1336,30,470,5,Price ke hisaab se acha hai.,2025-09-13 15:45:45.996876
+1337,283,753,5,Original product hai.,2025-10-26 15:45:45.996879
+1338,840,2110,5,Quality thori average thi.,2025-06-19 15:45:45.996881
+1339,87,886,4,Price ke hisaab se acha hai.,2025-11-30 15:45:45.996883
+1340,245,556,3,Bohat achi quality hai.,2025-05-22 15:45:45.996884
+1341,134,36,3,Bohat achi quality hai.,2025-05-29 15:45:45.996887
+1342,667,1985,3,Packaging zabardast thi.,2026-01-12 15:45:45.996889
+1343,507,354,4,Original product hai.,2025-06-28 15:45:45.996891
+1344,958,910,4,Original product hai.,2026-01-22 15:45:45.996893
+1345,43,985,3,Delivery time par mil gaya.,2025-06-03 15:45:45.996895
+1346,849,2599,5,Original product hai.,2025-08-06 15:45:45.996897
+1347,989,2003,5,Packaging zabardast thi.,2025-04-19 15:45:45.996899
+1348,510,1299,4,Quality thori average thi.,2025-02-20 15:45:45.996901
+1349,135,2457,4,Original product hai.,2025-04-26 15:45:45.996903
+1350,877,364,3,Price ke hisaab se acha hai.,2025-10-17 15:45:45.996905
+1351,919,182,5,Original product hai.,2025-07-19 15:45:45.996907
+1352,318,2009,4,Original product hai.,2026-01-18 15:45:45.996909
+1353,220,1726,4,Packaging zabardast thi.,2025-05-29 15:45:45.996911
+1354,780,1240,4,Original product hai.,2025-03-25 15:45:45.996913
+1355,329,1815,3,Price ke hisaab se acha hai.,2025-09-21 15:45:45.996916
+1356,480,2441,4,Packaging zabardast thi.,2025-11-20 15:45:45.996918
+1357,87,1750,5,Original product hai.,2025-05-14 15:45:45.996919
+1358,341,2220,3,Original product hai.,2025-04-14 15:45:45.996921
+1359,315,849,3,Original product hai.,2025-11-11 15:45:45.996926
+1360,132,319,5,Bohat achi quality hai.,2025-08-03 15:45:45.996927
+1361,147,1080,4,Packaging zabardast thi.,2025-08-24 15:45:45.996930
+1362,555,1184,4,Delivery time par mil gaya.,2026-01-21 15:45:45.996932
+1363,508,2237,4,Quality thori average thi.,2025-06-27 15:45:45.996934
+1364,374,265,3,Price ke hisaab se acha hai.,2025-05-09 15:45:45.996935
+1365,609,1695,5,Packaging zabardast thi.,2025-07-22 15:45:45.996938
+1366,694,602,4,Quality thori average thi.,2025-06-12 15:45:45.996940
+1367,905,1531,3,Packaging zabardast thi.,2025-12-28 15:45:45.996942
+1368,302,2509,5,Original product hai.,2025-04-07 15:45:45.996944
+1369,734,78,4,Packaging zabardast thi.,2025-06-11 15:45:45.996946
+1370,139,688,5,Price ke hisaab se acha hai.,2025-09-24 15:45:45.996948
+1371,36,2302,3,Bohat achi quality hai.,2026-01-28 15:45:45.996950
+1372,925,5,5,Packaging zabardast thi.,2025-05-11 15:45:45.996952
+1373,992,2809,4,Packaging zabardast thi.,2025-05-11 15:45:45.996954
+1374,699,783,3,Quality thori average thi.,2025-04-08 15:45:45.996956
+1375,787,216,4,Delivery time par mil gaya.,2025-08-21 15:45:45.996958
+1376,403,155,3,Bohat achi quality hai.,2025-08-06 15:45:45.996960
+1377,177,1436,4,Original product hai.,2026-02-12 15:45:45.996962
+1378,21,126,3,Price ke hisaab se acha hai.,2025-08-06 15:45:45.996963
+1379,987,392,4,Bohat achi quality hai.,2025-12-24 15:45:45.996965
+1380,52,1522,4,Price ke hisaab se acha hai.,2025-11-09 15:45:45.996967
+1381,274,1697,3,Packaging zabardast thi.,2025-08-28 15:45:45.996969
+1382,412,55,3,Original product hai.,2025-09-03 15:45:45.996972
+1383,198,1029,3,Quality thori average thi.,2025-03-25 15:45:45.996974
+1384,51,1820,4,Original product hai.,2025-06-03 15:45:45.996976
+1385,68,2779,4,Bohat achi quality hai.,2025-06-04 15:45:45.996977
+1386,789,159,5,Delivery time par mil gaya.,2025-07-02 15:45:45.996979
+1387,323,2873,3,Packaging zabardast thi.,2025-05-12 15:45:45.996981
+1388,35,2536,4,Bohat achi quality hai.,2025-07-21 15:45:45.996983
+1389,261,1117,5,Quality thori average thi.,2025-11-19 15:45:45.996985
+1390,28,2381,5,Packaging zabardast thi.,2025-05-27 15:45:45.996987
+1391,288,1243,3,Bohat achi quality hai.,2025-02-21 15:45:45.996990
+1392,519,2140,4,Delivery time par mil gaya.,2025-08-16 15:45:45.996992
+1393,137,460,5,Price ke hisaab se acha hai.,2025-04-28 15:45:45.996994
+1394,20,1239,3,Price ke hisaab se acha hai.,2025-11-05 15:45:45.996996
+1395,186,2771,3,Bohat achi quality hai.,2026-01-13 15:45:45.996998
+1396,502,1012,4,Original product hai.,2025-06-15 15:45:45.997000
+1397,58,492,3,Bohat achi quality hai.,2025-10-14 15:45:45.997002
+1398,662,1878,5,Quality thori average thi.,2025-09-28 15:45:45.997004
+1399,448,806,4,Bohat achi quality hai.,2025-09-29 15:45:45.997006
+1400,443,1597,4,Bohat achi quality hai.,2026-01-08 15:45:45.997008
+1401,317,2367,4,Quality thori average thi.,2025-06-23 15:45:45.997010
+1402,647,2144,3,Delivery time par mil gaya.,2025-11-04 15:45:45.997012
+1403,241,1447,3,Quality thori average thi.,2025-02-22 15:45:45.997014
+1404,487,78,3,Original product hai.,2025-09-29 15:45:45.997016
+1405,729,1201,5,Bohat achi quality hai.,2026-02-05 15:45:45.997018
+1406,830,2271,3,Original product hai.,2025-11-07 15:45:45.997022
+1407,303,1636,5,Original product hai.,2025-10-30 15:45:45.997024
+1408,649,1750,3,Quality thori average thi.,2025-02-16 15:45:45.997027
+1409,583,2796,5,Original product hai.,2025-06-27 15:45:45.997029
+1410,939,2509,5,Price ke hisaab se acha hai.,2025-12-29 15:45:45.997031
+1411,230,2989,3,Delivery time par mil gaya.,2025-10-13 15:45:45.997033
+1412,303,2640,5,Quality thori average thi.,2025-05-11 15:45:45.997035
+1413,225,1060,3,Original product hai.,2025-05-03 15:45:45.997037
+1414,689,1527,3,Quality thori average thi.,2025-07-10 15:45:45.997040
+1415,408,1341,3,Price ke hisaab se acha hai.,2025-06-04 15:45:45.997042
+1416,64,2961,3,Delivery time par mil gaya.,2025-10-06 15:45:45.997044
+1417,776,2476,3,Original product hai.,2025-11-13 15:45:45.997046
+1418,450,2265,5,Delivery time par mil gaya.,2025-08-18 15:45:45.997048
+1419,871,1278,5,Bohat achi quality hai.,2025-11-25 15:45:45.997050
+1420,809,2610,4,Bohat achi quality hai.,2025-08-04 15:45:45.997052
+1421,1000,2682,5,Price ke hisaab se acha hai.,2026-02-01 15:45:45.997054
+1422,287,159,3,Price ke hisaab se acha hai.,2025-03-26 15:45:45.997056
+1423,482,2141,4,Original product hai.,2025-02-17 15:45:45.997058
+1424,349,556,5,Quality thori average thi.,2025-06-12 15:45:45.997060
+1425,874,444,5,Delivery time par mil gaya.,2026-01-24 15:45:45.997063
+1426,895,1383,4,Bohat achi quality hai.,2025-08-29 15:45:45.997065
+1427,210,208,4,Delivery time par mil gaya.,2025-06-28 15:45:45.997067
+1428,742,68,5,Original product hai.,2025-06-30 15:45:45.997069
+1429,154,782,5,Bohat achi quality hai.,2025-06-11 15:45:45.997071
+1430,162,1855,4,Price ke hisaab se acha hai.,2025-09-16 15:45:45.997073
+1431,683,2272,3,Original product hai.,2025-05-01 15:45:45.997075
+1432,271,2866,5,Price ke hisaab se acha hai.,2025-11-14 15:45:45.997077
+1433,794,2670,3,Original product hai.,2025-05-01 15:45:45.997079
+1434,153,757,5,Bohat achi quality hai.,2025-06-17 15:45:45.997081
+1435,187,2844,5,Quality thori average thi.,2025-11-08 15:45:45.997083
+1436,387,356,5,Price ke hisaab se acha hai.,2025-07-08 15:45:45.997085
+1437,49,126,4,Packaging zabardast thi.,2025-12-02 15:45:45.997087
+1438,946,156,3,Original product hai.,2025-05-06 15:45:45.997089
+1439,870,2844,3,Delivery time par mil gaya.,2026-01-26 15:45:45.997091
+1440,788,748,5,Bohat achi quality hai.,2025-08-04 15:45:45.997093
+1441,102,223,4,Delivery time par mil gaya.,2025-07-07 15:45:45.997095
+1442,169,2171,4,Quality thori average thi.,2025-03-11 15:45:45.997097
+1443,98,1841,5,Price ke hisaab se acha hai.,2026-02-02 15:45:45.997099
+1444,129,609,4,Price ke hisaab se acha hai.,2026-02-05 15:45:45.997101
+1445,706,764,5,Bohat achi quality hai.,2025-08-26 15:45:45.997103
+1446,927,2461,4,Bohat achi quality hai.,2025-07-06 15:45:45.997105
+1447,622,754,3,Original product hai.,2025-07-20 15:45:45.997107
+1448,485,720,5,Delivery time par mil gaya.,2025-09-06 15:45:45.997108
+1449,488,1618,3,Packaging zabardast thi.,2025-02-22 15:45:45.997110
+1450,934,976,5,Price ke hisaab se acha hai.,2026-01-23 15:45:45.997113
+1451,579,512,3,Quality thori average thi.,2025-12-04 15:45:45.997114
+1452,405,824,4,Delivery time par mil gaya.,2025-05-17 15:45:45.997116
+1453,540,935,3,Original product hai.,2025-11-14 15:45:45.997118
+1454,910,83,3,Price ke hisaab se acha hai.,2025-05-25 15:45:45.997120
+1455,881,2330,3,Delivery time par mil gaya.,2025-03-13 15:45:45.997122
+1456,360,708,5,Quality thori average thi.,2025-04-23 15:45:45.997125
+1457,109,1971,4,Original product hai.,2025-11-29 15:45:45.997127
+1458,481,2341,4,Price ke hisaab se acha hai.,2025-10-07 15:45:45.997129
+1459,109,1563,5,Delivery time par mil gaya.,2025-04-06 15:45:45.997131
+1460,555,1427,4,Quality thori average thi.,2026-01-18 15:45:45.997133
+1461,136,1313,4,Original product hai.,2025-08-07 15:45:45.997135
+1462,641,2486,5,Bohat achi quality hai.,2025-06-25 15:45:45.997137
+1463,232,1807,3,Original product hai.,2025-09-05 15:45:45.997139
+1464,899,1642,5,Delivery time par mil gaya.,2025-10-17 15:45:45.997141
+1465,138,106,5,Delivery time par mil gaya.,2025-10-20 15:45:45.997143
+1466,943,1547,5,Delivery time par mil gaya.,2025-09-15 15:45:45.997145
+1467,791,1473,4,Price ke hisaab se acha hai.,2025-06-01 15:45:45.997147
+1468,965,322,5,Packaging zabardast thi.,2025-07-14 15:45:45.997149
+1469,155,220,4,Price ke hisaab se acha hai.,2025-10-15 15:45:45.997151
+1470,167,594,4,Price ke hisaab se acha hai.,2025-12-04 15:45:45.997153
+1471,454,330,4,Price ke hisaab se acha hai.,2025-03-24 15:45:45.997155
+1472,914,2622,3,Bohat achi quality hai.,2025-02-26 15:45:45.997158
+1473,265,1837,5,Bohat achi quality hai.,2025-04-13 15:45:45.997160
+1474,951,1929,5,Bohat achi quality hai.,2025-10-04 15:45:45.997162
+1475,481,1604,3,Delivery time par mil gaya.,2025-05-25 15:45:45.997164
+1476,800,1404,4,Original product hai.,2025-08-16 15:45:45.997166
+1477,477,2245,4,Price ke hisaab se acha hai.,2025-07-01 15:45:45.997167
+1478,89,2833,4,Bohat achi quality hai.,2025-11-16 15:45:45.997169
+1479,887,1582,5,Packaging zabardast thi.,2025-04-11 15:45:45.997171
+1480,583,677,3,Quality thori average thi.,2025-07-06 15:45:45.997173
+1481,477,1801,4,Quality thori average thi.,2025-04-09 15:45:45.997175
+1482,700,783,4,Original product hai.,2025-04-21 15:45:45.997178
+1483,442,948,4,Price ke hisaab se acha hai.,2026-01-24 15:45:45.997180
+1484,155,2097,4,Original product hai.,2026-01-30 15:45:45.997182
+1485,952,1852,4,Packaging zabardast thi.,2025-07-10 15:45:45.997184
+1486,534,531,5,Quality thori average thi.,2025-09-27 15:45:45.997186
+1487,253,2666,5,Bohat achi quality hai.,2025-03-13 15:45:45.997188
+1488,377,1597,5,Bohat achi quality hai.,2025-07-06 15:45:45.997190
+1489,195,161,3,Quality thori average thi.,2025-08-08 15:45:45.997192
+1490,17,338,4,Original product hai.,2025-10-28 15:45:45.997194
+1491,304,1960,5,Price ke hisaab se acha hai.,2025-09-18 15:45:45.997196
+1492,452,224,4,Price ke hisaab se acha hai.,2025-09-25 15:45:45.997198
+1493,118,2298,3,Quality thori average thi.,2025-06-10 15:45:45.997200
+1494,300,2032,4,Quality thori average thi.,2025-06-10 15:45:45.997201
+1495,186,1282,4,Delivery time par mil gaya.,2025-08-11 15:45:45.997203
+1496,295,1275,4,Price ke hisaab se acha hai.,2025-09-14 15:45:45.997205
+1497,588,2996,4,Delivery time par mil gaya.,2025-02-20 15:45:45.997207
+1498,1,2176,3,Packaging zabardast thi.,2025-12-21 15:45:45.997209
+1499,627,66,4,Delivery time par mil gaya.,2025-12-02 15:45:45.997211
+1500,982,98,5,Packaging zabardast thi.,2025-05-01 15:45:45.997213
+1501,985,857,5,Bohat achi quality hai.,2025-05-11 15:45:45.997215
+1502,554,454,5,Quality thori average thi.,2026-01-05 15:45:45.997217
+1503,473,2767,5,Bohat achi quality hai.,2025-05-15 15:45:45.997219
+1504,302,2533,4,Quality thori average thi.,2025-02-21 15:45:45.997222
+1505,654,611,5,Price ke hisaab se acha hai.,2025-03-28 15:45:45.997224
+1506,910,1145,4,Bohat achi quality hai.,2025-03-13 15:45:45.997226
+1507,93,2178,5,Delivery time par mil gaya.,2025-09-26 15:45:45.997228
+1508,316,2306,3,Delivery time par mil gaya.,2025-06-13 15:45:45.997230
+1509,932,948,3,Price ke hisaab se acha hai.,2025-11-01 15:45:45.997232
+1510,869,909,5,Price ke hisaab se acha hai.,2025-10-16 15:45:45.997237
+1511,838,2627,3,Packaging zabardast thi.,2025-07-02 15:45:45.997239
+1512,160,2085,5,Quality thori average thi.,2025-05-20 15:45:45.997242
+1513,771,381,5,Bohat achi quality hai.,2025-12-24 15:45:45.997244
+1514,535,631,3,Packaging zabardast thi.,2025-03-18 15:45:45.997246
+1515,166,869,4,Bohat achi quality hai.,2026-01-22 15:45:45.997249
+1516,106,2780,3,Original product hai.,2025-06-08 15:45:45.997250
+1517,690,1906,3,Quality thori average thi.,2026-01-25 15:45:45.997253
+1518,176,2671,3,Original product hai.,2025-05-12 15:45:45.997254
+1519,159,620,3,Price ke hisaab se acha hai.,2025-11-23 15:45:45.997256
+1520,717,326,4,Price ke hisaab se acha hai.,2025-11-08 15:45:45.997258
+1521,314,648,5,Quality thori average thi.,2025-07-24 15:45:45.997260
+1522,998,1310,4,Price ke hisaab se acha hai.,2025-11-10 15:45:45.997262
+1523,889,689,3,Bohat achi quality hai.,2025-06-09 15:45:45.997264
+1524,898,1345,5,Bohat achi quality hai.,2025-05-14 15:45:45.997266
+1525,427,2904,4,Delivery time par mil gaya.,2025-04-26 15:45:45.997268
+1526,906,2056,4,Packaging zabardast thi.,2025-11-18 15:45:45.997270
+1527,152,2141,3,Bohat achi quality hai.,2025-10-11 15:45:45.997272
+1528,164,451,4,Delivery time par mil gaya.,2025-04-17 15:45:45.997274
+1529,578,114,5,Original product hai.,2025-12-22 15:45:45.997276
+1530,317,2849,3,Delivery time par mil gaya.,2025-10-07 15:45:45.997278
+1531,123,989,4,Quality thori average thi.,2025-05-30 15:45:45.997280
+1532,21,559,4,Delivery time par mil gaya.,2025-07-02 15:45:45.997282
+1533,596,1182,5,Packaging zabardast thi.,2025-11-27 15:45:45.997285
+1534,497,1995,3,Price ke hisaab se acha hai.,2025-12-14 15:45:45.997287
+1535,415,387,3,Packaging zabardast thi.,2025-03-18 15:45:45.997289
+1536,19,839,5,Delivery time par mil gaya.,2025-05-04 15:45:45.997291
+1537,710,238,3,Original product hai.,2025-04-30 15:45:45.997293
+1538,815,1255,4,Price ke hisaab se acha hai.,2025-12-26 15:45:45.997295
+1539,877,665,4,Original product hai.,2025-12-13 15:45:45.997298
+1540,310,1326,3,Price ke hisaab se acha hai.,2025-09-27 15:45:45.997299
+1541,181,2622,4,Bohat achi quality hai.,2025-03-02 15:45:45.997301
+1542,629,443,5,Bohat achi quality hai.,2025-09-24 15:45:45.997303
+1543,331,1721,5,Bohat achi quality hai.,2026-02-13 15:45:45.997305
+1544,353,1550,5,Quality thori average thi.,2025-11-04 15:45:45.997307
+1545,591,2378,4,Quality thori average thi.,2025-08-01 15:45:45.997309
+1546,858,998,5,Quality thori average thi.,2025-07-07 15:45:45.997311
+1547,483,2653,5,Price ke hisaab se acha hai.,2025-10-24 15:45:45.997313
+1548,197,2612,3,Bohat achi quality hai.,2025-07-09 15:45:45.997315
+1549,3,1544,3,Packaging zabardast thi.,2026-01-17 15:45:45.997317
+1550,725,1731,4,Delivery time par mil gaya.,2025-11-23 15:45:45.997319
+1551,101,1940,4,Price ke hisaab se acha hai.,2025-03-30 15:45:45.997325
+1552,979,559,3,Original product hai.,2026-01-16 15:45:45.997327
+1553,144,1150,4,Quality thori average thi.,2025-05-02 15:45:45.997329
+1554,101,2318,5,Quality thori average thi.,2025-12-31 15:45:45.997331
+1555,832,1283,5,Bohat achi quality hai.,2025-06-11 15:45:45.997333
+1556,158,528,4,Original product hai.,2025-09-03 15:45:45.997335
+1557,961,396,5,Price ke hisaab se acha hai.,2026-01-22 15:45:45.997337
+1558,239,2441,3,Quality thori average thi.,2026-01-23 15:45:45.997339
+1559,4,953,3,Bohat achi quality hai.,2025-03-25 15:45:45.997341
+1560,196,1251,4,Packaging zabardast thi.,2025-10-23 15:45:45.997343
+1561,125,807,3,Packaging zabardast thi.,2026-01-31 15:45:45.997345
+1562,654,2601,5,Delivery time par mil gaya.,2025-05-29 15:45:45.997347
+1563,93,2485,5,Quality thori average thi.,2026-02-14 15:45:45.997351
+1564,458,2936,5,Delivery time par mil gaya.,2026-01-10 15:45:45.997353
+1565,592,1667,5,Price ke hisaab se acha hai.,2025-11-28 15:45:45.997355
+1566,800,1072,4,Delivery time par mil gaya.,2025-09-25 15:45:45.997357
+1567,972,1216,4,Original product hai.,2025-10-15 15:45:45.997359
+1568,257,842,4,Delivery time par mil gaya.,2025-08-14 15:45:45.997361
+1569,449,2681,4,Original product hai.,2025-05-18 15:45:45.997363
+1570,294,255,4,Price ke hisaab se acha hai.,2025-02-27 15:45:45.997365
+1571,201,2939,3,Packaging zabardast thi.,2025-06-02 15:45:45.997367
+1572,225,612,5,Bohat achi quality hai.,2025-09-10 15:45:45.997369
+1573,489,423,4,Packaging zabardast thi.,2025-06-19 15:45:45.997371
+1574,144,2756,4,Packaging zabardast thi.,2025-02-19 15:45:45.997372
+1575,214,880,4,Delivery time par mil gaya.,2025-04-01 15:45:45.997375
+1576,38,2720,3,Delivery time par mil gaya.,2026-01-29 15:45:45.997377
+1577,422,1439,5,Delivery time par mil gaya.,2025-07-27 15:45:45.997379
+1578,605,1597,4,Price ke hisaab se acha hai.,2025-09-18 15:45:45.997381
+1579,406,1546,5,Bohat achi quality hai.,2025-12-21 15:45:45.997383
+1580,904,206,3,Quality thori average thi.,2025-06-29 15:45:45.997385
+1581,672,2998,4,Quality thori average thi.,2025-11-28 15:45:45.997387
+1582,515,1851,3,Delivery time par mil gaya.,2025-12-17 15:45:45.997389
+1583,611,2783,3,Price ke hisaab se acha hai.,2025-02-23 15:45:45.997391
+1584,488,695,3,Bohat achi quality hai.,2025-03-16 15:45:45.997393
+1585,11,2966,3,Bohat achi quality hai.,2025-05-21 15:45:45.997395
+1586,612,295,3,Delivery time par mil gaya.,2026-01-22 15:45:45.997397
+1587,586,2260,3,Quality thori average thi.,2025-07-13 15:45:45.997399
+1588,458,1770,4,Packaging zabardast thi.,2025-06-05 15:45:45.997401
+1589,617,1100,4,Price ke hisaab se acha hai.,2025-06-13 15:45:45.997403
+1590,503,720,4,Original product hai.,2025-12-13 15:45:45.997405
+1591,52,548,3,Quality thori average thi.,2025-08-07 15:45:45.997407
+1592,107,2814,5,Original product hai.,2025-10-21 15:45:45.997409
+1593,464,149,4,Original product hai.,2025-07-20 15:45:45.997411
+1594,306,36,3,Original product hai.,2025-08-07 15:45:45.997413
+1595,490,2982,4,Quality thori average thi.,2025-10-12 15:45:45.997415
+1596,895,810,3,Delivery time par mil gaya.,2025-08-18 15:45:45.997417
+1597,743,644,3,Packaging zabardast thi.,2025-07-31 15:45:45.997419
+1598,595,2573,4,Price ke hisaab se acha hai.,2025-03-31 15:45:45.997421
+1599,364,1516,4,Packaging zabardast thi.,2025-10-09 15:45:45.997423
+1600,198,2075,4,Quality thori average thi.,2025-07-04 15:45:45.997426
+1601,592,620,4,Original product hai.,2025-07-22 15:45:45.997428
+1602,138,1670,3,Bohat achi quality hai.,2025-07-21 15:45:45.997430
+1603,851,607,3,Price ke hisaab se acha hai.,2025-08-15 15:45:45.997432
+1604,863,2110,3,Delivery time par mil gaya.,2025-12-18 15:45:45.997434
+1605,843,2218,5,Quality thori average thi.,2025-08-22 15:45:45.997436
+1606,155,782,5,Delivery time par mil gaya.,2025-04-17 15:45:45.997438
+1607,409,1721,3,Quality thori average thi.,2025-08-22 15:45:45.997440
+1608,742,1998,5,Price ke hisaab se acha hai.,2026-01-02 15:45:45.997442
+1609,151,1728,4,Original product hai.,2025-07-17 15:45:45.997444
+1610,888,792,5,Delivery time par mil gaya.,2025-11-12 15:45:45.997446
+1611,892,2554,3,Price ke hisaab se acha hai.,2025-03-20 15:45:45.997448
+1612,362,2542,3,Delivery time par mil gaya.,2025-06-12 15:45:45.997450
+1613,903,2642,3,Price ke hisaab se acha hai.,2025-07-14 15:45:45.997451
+1614,408,758,4,Price ke hisaab se acha hai.,2025-12-27 15:45:45.997453
+1615,602,1983,3,Bohat achi quality hai.,2026-01-24 15:45:45.997457
+1616,996,892,5,Original product hai.,2025-08-22 15:45:45.997462
+1617,640,824,3,Quality thori average thi.,2025-08-29 15:45:45.997466
+1618,464,2844,3,Delivery time par mil gaya.,2025-12-07 15:45:45.997469
+1619,6,2860,5,Delivery time par mil gaya.,2025-05-12 15:45:45.997472
+1620,870,470,5,Price ke hisaab se acha hai.,2026-01-05 15:45:45.997476
+1621,683,2675,5,Quality thori average thi.,2025-11-18 15:45:45.997483
+1622,848,2216,3,Price ke hisaab se acha hai.,2025-04-23 15:45:45.997486
+1623,417,1545,4,Original product hai.,2025-04-27 15:45:45.997488
+1624,362,2299,4,Delivery time par mil gaya.,2025-08-21 15:45:45.997490
+1625,854,2430,5,Price ke hisaab se acha hai.,2025-07-06 15:45:45.997492
+1626,824,1955,5,Original product hai.,2025-08-19 15:45:45.997494
+1627,179,2704,4,Quality thori average thi.,2025-09-04 15:45:45.997496
+1628,934,2589,4,Bohat achi quality hai.,2026-02-08 15:45:45.997498
+1629,708,1910,4,Quality thori average thi.,2025-06-07 15:45:45.997500
+1630,510,1820,4,Bohat achi quality hai.,2026-02-14 15:45:45.997502
+1631,395,1932,4,Delivery time par mil gaya.,2025-07-12 15:45:45.997504
+1632,746,1141,5,Bohat achi quality hai.,2025-02-24 15:45:45.997506
+1633,466,2971,5,Packaging zabardast thi.,2025-04-15 15:45:45.997507
+1634,539,2426,3,Packaging zabardast thi.,2025-08-15 15:45:45.997509
+1635,400,128,4,Packaging zabardast thi.,2025-05-14 15:45:45.997512
+1636,312,2254,3,Packaging zabardast thi.,2025-12-22 15:45:45.997514
+1637,856,1556,4,Packaging zabardast thi.,2025-09-18 15:45:45.997516
+1638,18,745,5,Original product hai.,2025-09-04 15:45:45.997518
+1639,260,1580,5,Delivery time par mil gaya.,2025-05-08 15:45:45.997520
+1640,730,341,3,Price ke hisaab se acha hai.,2025-06-30 15:45:45.997523
+1641,729,2474,5,Packaging zabardast thi.,2025-05-10 15:45:45.997525
+1642,508,1446,5,Packaging zabardast thi.,2025-09-13 15:45:45.997527
+1643,707,2480,4,Bohat achi quality hai.,2025-08-09 15:45:45.997528
+1644,426,88,3,Quality thori average thi.,2025-12-03 15:45:45.997531
+1645,309,2682,3,Original product hai.,2025-06-10 15:45:45.997533
+1646,186,2231,3,Packaging zabardast thi.,2025-04-10 15:45:45.997534
+1647,21,2812,5,Delivery time par mil gaya.,2025-07-13 15:45:45.997536
+1648,28,296,4,Price ke hisaab se acha hai.,2025-07-11 15:45:45.997539
+1649,541,166,5,Packaging zabardast thi.,2025-04-11 15:45:45.997540
+1650,559,1652,5,Delivery time par mil gaya.,2025-06-27 15:45:45.997542
+1651,112,1547,5,Bohat achi quality hai.,2025-05-23 15:45:45.997544
+1652,198,1237,5,Price ke hisaab se acha hai.,2025-05-17 15:45:45.997546
+1653,81,2816,3,Packaging zabardast thi.,2026-02-05 15:45:45.997548
+1654,61,2041,3,Price ke hisaab se acha hai.,2025-12-10 15:45:45.997550
+1655,471,1254,4,Delivery time par mil gaya.,2025-12-11 15:45:45.997552
+1656,621,1728,4,Quality thori average thi.,2025-12-11 15:45:45.997554
+1657,790,2146,5,Original product hai.,2025-07-19 15:45:45.997556
+1658,217,15,5,Quality thori average thi.,2025-07-18 15:45:45.997558
+1659,931,628,5,Bohat achi quality hai.,2026-02-01 15:45:45.997560
+1660,83,2938,4,Quality thori average thi.,2025-10-26 15:45:45.997562
+1661,854,2435,5,Original product hai.,2025-06-18 15:45:45.997564
+1662,345,1453,5,Delivery time par mil gaya.,2025-03-16 15:45:45.997566
+1663,780,2538,5,Bohat achi quality hai.,2025-07-07 15:45:45.997568
+1664,334,1836,5,Delivery time par mil gaya.,2025-04-05 15:45:45.997571
+1665,283,2011,3,Price ke hisaab se acha hai.,2025-07-28 15:45:45.997573
+1666,549,645,5,Price ke hisaab se acha hai.,2025-08-27 15:45:45.997575
+1667,520,447,5,Packaging zabardast thi.,2025-12-14 15:45:45.997576
+1668,22,2591,4,Original product hai.,2025-06-07 15:45:45.997578
+1669,468,2055,4,Packaging zabardast thi.,2025-03-01 15:45:45.997580
+1670,258,2914,5,Price ke hisaab se acha hai.,2025-09-25 15:45:45.997582
+1671,525,2576,5,Packaging zabardast thi.,2025-10-26 15:45:45.997584
+1672,607,1001,4,Bohat achi quality hai.,2025-11-27 15:45:45.997586
+1673,620,2421,3,Packaging zabardast thi.,2026-02-08 15:45:45.997588
+1674,163,1344,5,Price ke hisaab se acha hai.,2025-10-15 15:45:45.997590
+1675,6,2842,3,Bohat achi quality hai.,2025-12-25 15:45:45.997592
+1676,522,2634,5,Price ke hisaab se acha hai.,2026-02-09 15:45:45.997593
+1677,369,2469,3,Original product hai.,2025-07-29 15:45:45.997596
+1678,284,2994,4,Packaging zabardast thi.,2025-02-18 15:45:45.997598
+1679,345,946,4,Bohat achi quality hai.,2026-02-13 15:45:45.997603
+1680,429,2927,5,Packaging zabardast thi.,2025-12-04 15:45:45.997605
+1681,914,497,4,Original product hai.,2025-11-16 15:45:45.997607
+1682,133,273,4,Quality thori average thi.,2026-01-01 15:45:45.997609
+1683,514,2539,5,Price ke hisaab se acha hai.,2025-06-25 15:45:45.997611
+1684,77,213,5,Price ke hisaab se acha hai.,2026-01-01 15:45:45.997613
+1685,400,2572,5,Original product hai.,2025-12-12 15:45:45.997615
+1686,663,1645,5,Delivery time par mil gaya.,2025-08-21 15:45:45.997617
+1687,484,2432,3,Quality thori average thi.,2025-06-12 15:45:45.997619
+1688,844,1393,5,Delivery time par mil gaya.,2025-06-21 15:45:45.997620
+1689,53,820,5,Packaging zabardast thi.,2025-12-15 15:45:45.997623
+1690,842,1083,4,Delivery time par mil gaya.,2025-02-18 15:45:45.997626
+1691,154,663,5,Packaging zabardast thi.,2026-02-02 15:45:45.997628
+1692,424,246,4,Packaging zabardast thi.,2025-03-12 15:45:45.997630
+1693,744,2244,4,Packaging zabardast thi.,2025-05-30 15:45:45.997632
+1694,363,124,4,Bohat achi quality hai.,2025-06-10 15:45:45.997634
+1695,652,2344,4,Quality thori average thi.,2025-02-19 15:45:45.997636
+1696,991,360,4,Price ke hisaab se acha hai.,2025-07-19 15:45:45.997638
+1697,99,2834,4,Bohat achi quality hai.,2025-04-28 15:45:45.997640
+1698,415,591,3,Bohat achi quality hai.,2025-08-08 15:45:45.997642
+1699,252,1561,5,Delivery time par mil gaya.,2026-01-08 15:45:45.997644
+1700,95,2119,5,Bohat achi quality hai.,2025-12-08 15:45:45.997646
+1701,422,2828,5,Bohat achi quality hai.,2025-12-11 15:45:45.997648
+1702,415,1406,3,Delivery time par mil gaya.,2025-06-24 15:45:45.997650
+1703,340,325,5,Packaging zabardast thi.,2025-04-23 15:45:45.997652
+1704,411,2739,4,Original product hai.,2026-01-02 15:45:45.997654
+1705,909,698,4,Bohat achi quality hai.,2025-03-03 15:45:45.997656
+1706,994,2100,5,Bohat achi quality hai.,2026-01-29 15:45:45.997658
+1707,770,1418,4,Bohat achi quality hai.,2025-07-31 15:45:45.997660
+1708,777,1360,3,Bohat achi quality hai.,2025-08-18 15:45:45.997662
+1709,244,181,3,Packaging zabardast thi.,2025-10-18 15:45:45.997664
+1710,742,2420,4,Price ke hisaab se acha hai.,2025-05-30 15:45:45.997666
+1711,322,2286,5,Quality thori average thi.,2025-09-20 15:45:45.997668
+1712,188,1054,5,Packaging zabardast thi.,2025-11-30 15:45:45.997670
+1713,219,2422,4,Original product hai.,2025-11-01 15:45:45.997672
+1714,856,1620,5,Bohat achi quality hai.,2025-05-18 15:45:45.997674
+1715,645,23,3,Delivery time par mil gaya.,2025-03-03 15:45:45.997676
+1716,768,1125,4,Original product hai.,2025-10-19 15:45:45.997678
+1717,739,1680,4,Packaging zabardast thi.,2025-04-30 15:45:45.997700
+1718,509,1557,5,Packaging zabardast thi.,2025-10-31 15:45:45.997702
+1719,510,290,4,Quality thori average thi.,2025-08-16 15:45:45.997705
+1720,696,2093,4,Packaging zabardast thi.,2025-05-28 15:45:45.997707
+1721,457,1951,3,Price ke hisaab se acha hai.,2025-09-01 15:45:45.997709
+1722,282,2940,3,Original product hai.,2025-06-27 15:45:45.997711
+1723,562,502,5,Original product hai.,2025-04-20 15:45:45.997713
+1724,642,998,3,Packaging zabardast thi.,2025-05-11 15:45:45.997715
+1725,57,1489,4,Quality thori average thi.,2025-11-27 15:45:45.997717
+1726,656,447,5,Packaging zabardast thi.,2025-10-01 15:45:45.997719
+1727,426,117,3,Packaging zabardast thi.,2026-02-07 15:45:45.997721
+1728,329,1865,5,Packaging zabardast thi.,2025-04-05 15:45:45.997724
+1729,416,1861,4,Quality thori average thi.,2026-01-25 15:45:45.997726
+1730,195,2978,5,Delivery time par mil gaya.,2025-02-23 15:45:45.997728
+1731,297,1395,3,Price ke hisaab se acha hai.,2025-05-17 15:45:45.997730
+1732,141,1346,5,Delivery time par mil gaya.,2025-07-22 15:45:45.997732
+1733,659,295,3,Price ke hisaab se acha hai.,2025-06-29 15:45:45.997734
+1734,494,963,3,Price ke hisaab se acha hai.,2025-04-30 15:45:45.997735
+1735,50,914,4,Bohat achi quality hai.,2025-11-07 15:45:45.997738
+1736,486,1598,5,Original product hai.,2025-04-17 15:45:45.997740
+1737,674,1626,4,Price ke hisaab se acha hai.,2026-01-26 15:45:45.997742
+1738,243,478,5,Delivery time par mil gaya.,2025-12-22 15:45:45.997744
+1739,811,1523,5,Packaging zabardast thi.,2025-04-02 15:45:45.997746
+1740,361,2362,4,Packaging zabardast thi.,2025-04-19 15:45:45.997747
+1741,924,1861,5,Bohat achi quality hai.,2025-07-12 15:45:45.997749
+1742,295,929,3,Quality thori average thi.,2026-02-08 15:45:45.997751
+1743,27,1921,3,Packaging zabardast thi.,2025-02-21 15:45:45.997761
+1744,221,1505,3,Delivery time par mil gaya.,2025-12-12 15:45:45.997763
+1745,556,799,3,Quality thori average thi.,2025-09-11 15:45:45.997765
+1746,234,2684,4,Original product hai.,2025-09-05 15:45:45.997767
+1747,89,2077,3,Quality thori average thi.,2025-10-15 15:45:45.997769
+1748,52,1551,3,Original product hai.,2025-11-19 15:45:45.997770
+1749,573,360,5,Quality thori average thi.,2025-02-20 15:45:45.997772
+1750,26,440,4,Packaging zabardast thi.,2026-01-19 15:45:45.997774
+1751,411,963,3,Packaging zabardast thi.,2025-12-29 15:45:45.997776
+1752,77,2123,3,Price ke hisaab se acha hai.,2025-06-16 15:45:45.997778
+1753,797,1432,5,Original product hai.,2025-11-18 15:45:45.997780
+1754,374,2675,3,Quality thori average thi.,2025-03-23 15:45:45.997782
+1755,204,1223,5,Original product hai.,2025-03-23 15:45:45.997784
+1756,640,1879,5,Quality thori average thi.,2025-06-11 15:45:45.997786
+1757,37,874,5,Packaging zabardast thi.,2026-01-21 15:45:45.997788
+1758,439,1923,4,Delivery time par mil gaya.,2026-01-25 15:45:45.997789
+1759,741,1244,5,Quality thori average thi.,2025-03-26 15:45:45.997791
+1760,941,885,4,Bohat achi quality hai.,2025-09-13 15:45:45.997793
+1761,255,38,3,Packaging zabardast thi.,2025-12-10 15:45:45.997796
+1762,664,966,5,Price ke hisaab se acha hai.,2025-06-13 15:45:45.997799
+1763,341,308,4,Bohat achi quality hai.,2025-08-20 15:45:45.997802
+1764,174,1819,4,Packaging zabardast thi.,2025-11-07 15:45:45.997805
+1765,454,2947,3,Delivery time par mil gaya.,2025-11-24 15:45:45.997808
+1766,827,2094,4,Original product hai.,2025-09-16 15:45:45.997812
+1767,827,1084,5,Original product hai.,2025-07-13 15:45:45.997815
+1768,906,69,5,Quality thori average thi.,2025-10-01 15:45:45.997818
+1769,866,6,5,Packaging zabardast thi.,2025-10-04 15:45:45.997822
+1770,625,2270,3,Original product hai.,2025-05-17 15:45:45.997824
+1771,774,1109,5,Delivery time par mil gaya.,2025-08-29 15:45:45.997826
+1772,719,323,4,Packaging zabardast thi.,2025-12-25 15:45:45.997828
+1773,792,1846,4,Price ke hisaab se acha hai.,2025-08-18 15:45:45.997830
+1774,646,28,5,Original product hai.,2025-03-12 15:45:45.997832
+1775,460,752,3,Price ke hisaab se acha hai.,2025-04-06 15:45:45.997834
+1776,368,966,5,Price ke hisaab se acha hai.,2025-11-03 15:45:45.997836
+1777,610,2594,4,Packaging zabardast thi.,2025-08-17 15:45:45.997838
+1778,236,446,4,Bohat achi quality hai.,2026-01-14 15:45:45.997840
+1779,262,249,3,Bohat achi quality hai.,2025-03-19 15:45:45.997842
+1780,989,501,3,Price ke hisaab se acha hai.,2025-05-13 15:45:45.997844
+1781,767,728,4,Quality thori average thi.,2025-03-27 15:45:45.997845
+1782,628,178,3,Bohat achi quality hai.,2025-10-14 15:45:45.997847
+1783,724,2949,4,Quality thori average thi.,2025-12-05 15:45:45.997849
+1784,99,1156,4,Delivery time par mil gaya.,2025-09-20 15:45:45.997851
+1785,491,2611,4,Bohat achi quality hai.,2025-12-12 15:45:45.997853
+1786,755,480,5,Original product hai.,2026-02-08 15:45:45.997855
+1787,681,2441,3,Price ke hisaab se acha hai.,2025-04-13 15:45:45.997857
+1788,446,1642,3,Original product hai.,2025-05-27 15:45:45.997859
+1789,472,445,3,Bohat achi quality hai.,2025-11-19 15:45:45.997861
+1790,862,1271,5,Quality thori average thi.,2025-07-06 15:45:45.997866
+1791,193,2977,4,Bohat achi quality hai.,2025-10-24 15:45:45.997869
+1792,852,2505,4,Price ke hisaab se acha hai.,2025-03-07 15:45:45.997871
+1793,666,1677,5,Price ke hisaab se acha hai.,2025-03-17 15:45:45.997873
+1794,117,2184,3,Original product hai.,2025-02-25 15:45:45.997875
+1795,336,730,5,Packaging zabardast thi.,2025-12-13 15:45:45.997878
+1796,835,2559,4,Quality thori average thi.,2026-01-07 15:45:45.997880
+1797,702,1153,5,Original product hai.,2025-09-10 15:45:45.997882
+1798,668,1463,3,Quality thori average thi.,2025-02-23 15:45:45.997884
+1799,788,2627,3,Delivery time par mil gaya.,2025-10-01 15:45:45.997886
+1800,624,24,4,Quality thori average thi.,2025-08-03 15:45:45.997888
+1801,535,453,5,Delivery time par mil gaya.,2025-10-30 15:45:45.997890
+1802,664,570,3,Packaging zabardast thi.,2025-04-25 15:45:45.997892
+1803,280,168,4,Quality thori average thi.,2026-01-08 15:45:45.997894
+1804,893,1574,4,Original product hai.,2026-01-31 15:45:45.997896
+1805,503,577,3,Original product hai.,2025-04-12 15:45:45.997897
+1806,104,2290,4,Original product hai.,2025-07-12 15:45:45.997899
+1807,450,2813,4,Price ke hisaab se acha hai.,2025-07-20 15:45:45.997904
+1808,676,2962,5,Bohat achi quality hai.,2025-05-02 15:45:45.997906
+1809,636,686,4,Delivery time par mil gaya.,2025-08-02 15:45:45.997909
+1810,568,1255,4,Delivery time par mil gaya.,2025-05-28 15:45:45.997911
+1811,827,878,3,Bohat achi quality hai.,2025-03-25 15:45:45.997913
+1812,806,2954,3,Quality thori average thi.,2026-02-11 15:45:45.997915
+1813,975,334,3,Original product hai.,2025-03-02 15:45:45.997917
+1814,54,605,4,Price ke hisaab se acha hai.,2025-08-28 15:45:45.997927
+1815,464,2023,5,Quality thori average thi.,2025-08-20 15:45:45.997929
+1816,382,145,3,Delivery time par mil gaya.,2026-01-15 15:45:45.997931
+1817,348,1603,3,Delivery time par mil gaya.,2025-10-29 15:45:45.997932
+1818,33,2717,4,Bohat achi quality hai.,2025-04-15 15:45:45.997934
+1819,523,965,3,Price ke hisaab se acha hai.,2026-02-13 15:45:45.997939
+1820,937,1113,5,Original product hai.,2025-02-27 15:45:45.997941
+1821,41,1623,5,Packaging zabardast thi.,2025-09-12 15:45:45.997943
+1822,430,2817,4,Bohat achi quality hai.,2025-02-21 15:45:45.997944
+1823,519,132,4,Packaging zabardast thi.,2025-03-04 15:45:45.997947
+1824,531,2536,4,Packaging zabardast thi.,2025-06-02 15:45:45.997949
+1825,428,1029,5,Packaging zabardast thi.,2026-02-03 15:45:45.997950
+1826,525,220,5,Delivery time par mil gaya.,2025-08-06 15:45:45.997952
+1827,530,1933,5,Packaging zabardast thi.,2026-01-13 15:45:45.997954
+1828,564,1312,3,Original product hai.,2025-08-04 15:45:45.997956
+1829,273,938,4,Packaging zabardast thi.,2025-11-17 15:45:45.997958
+1830,770,599,5,Price ke hisaab se acha hai.,2025-07-15 15:45:45.997960
+1831,638,266,5,Delivery time par mil gaya.,2025-08-16 15:45:45.997962
+1832,959,2682,4,Original product hai.,2025-11-05 15:45:45.997964
+1833,793,2879,5,Price ke hisaab se acha hai.,2025-10-31 15:45:45.997966
+1834,496,1545,3,Original product hai.,2025-09-22 15:45:45.997968
+1835,328,1225,4,Quality thori average thi.,2025-10-14 15:45:45.997970
+1836,577,1607,5,Price ke hisaab se acha hai.,2025-04-23 15:45:45.997972
+1837,262,393,5,Price ke hisaab se acha hai.,2025-08-17 15:45:45.997974
+1838,190,1234,5,Bohat achi quality hai.,2025-06-19 15:45:45.997976
+1839,35,327,3,Original product hai.,2025-11-26 15:45:45.997978
+1840,773,1961,4,Quality thori average thi.,2025-09-24 15:45:45.997980
+1841,149,55,3,Delivery time par mil gaya.,2025-09-28 15:45:45.997982
+1842,816,1165,5,Packaging zabardast thi.,2025-04-05 15:45:45.997984
+1843,554,1698,5,Delivery time par mil gaya.,2025-02-26 15:45:45.997986
+1844,313,475,5,Quality thori average thi.,2026-01-08 15:45:45.997988
+1845,399,863,4,Bohat achi quality hai.,2025-12-19 15:45:45.997990
+1846,43,431,5,Packaging zabardast thi.,2025-10-09 15:45:45.997992
+1847,542,1041,5,Bohat achi quality hai.,2025-04-15 15:45:45.997993
+1848,93,1355,4,Bohat achi quality hai.,2025-05-24 15:45:45.997995
+1849,549,518,3,Price ke hisaab se acha hai.,2026-01-21 15:45:45.997997
+1850,709,1798,4,Price ke hisaab se acha hai.,2025-07-20 15:45:45.997999
+1851,255,2880,4,Original product hai.,2025-06-14 15:45:45.998001
+1852,561,2766,3,Original product hai.,2025-04-10 15:45:45.998004
+1853,942,856,4,Original product hai.,2025-04-29 15:45:45.998006
+1854,601,828,3,Quality thori average thi.,2025-05-27 15:45:45.998008
+1855,609,445,3,Bohat achi quality hai.,2025-11-08 15:45:45.998010
+1856,221,2308,4,Original product hai.,2025-08-14 15:45:45.998012
+1857,724,448,3,Bohat achi quality hai.,2025-09-27 15:45:45.998014
+1858,407,854,5,Original product hai.,2025-11-18 15:45:45.998016
+1859,79,1949,3,Original product hai.,2025-08-16 15:45:45.998018
+1860,394,1628,5,Price ke hisaab se acha hai.,2025-07-08 15:45:45.998020
+1861,657,2516,5,Original product hai.,2026-02-07 15:45:45.998022
+1862,526,1683,4,Price ke hisaab se acha hai.,2025-04-07 15:45:45.998024
+1863,697,1805,4,Original product hai.,2025-10-01 15:45:45.998026
+1864,984,1226,5,Packaging zabardast thi.,2025-03-09 15:45:45.998028
+1865,725,2866,4,Quality thori average thi.,2025-06-12 15:45:45.998030
+1866,799,2305,3,Bohat achi quality hai.,2025-07-21 15:45:45.998032
+1867,31,2257,4,Packaging zabardast thi.,2025-06-07 15:45:45.998034
+1868,967,1599,5,Price ke hisaab se acha hai.,2025-06-01 15:45:45.998036
+1869,298,643,5,Packaging zabardast thi.,2026-02-10 15:45:45.998038
+1870,257,1904,4,Price ke hisaab se acha hai.,2025-09-21 15:45:45.998040
+1871,419,212,4,Bohat achi quality hai.,2025-03-25 15:45:45.998044
+1872,967,1222,3,Bohat achi quality hai.,2025-04-08 15:45:45.998046
+1873,666,2587,4,Packaging zabardast thi.,2025-08-22 15:45:45.998048
+1874,45,2294,4,Quality thori average thi.,2025-03-31 15:45:45.998050
+1875,531,2867,4,Packaging zabardast thi.,2025-06-22 15:45:45.998052
+1876,573,2720,5,Price ke hisaab se acha hai.,2026-02-03 15:45:45.998054
+1877,93,2806,5,Original product hai.,2025-07-07 15:45:45.998056
+1878,616,633,5,Packaging zabardast thi.,2025-05-01 15:45:45.998058
+1879,586,840,4,Price ke hisaab se acha hai.,2025-11-28 15:45:45.998060
+1880,134,1909,3,Original product hai.,2025-08-01 15:45:45.998062
+1881,701,1904,5,Packaging zabardast thi.,2026-01-25 15:45:45.998064
+1882,30,2379,4,Packaging zabardast thi.,2025-09-22 15:45:45.998066
+1883,685,816,5,Quality thori average thi.,2025-03-21 15:45:45.998068
+1884,411,2364,5,Price ke hisaab se acha hai.,2025-05-13 15:45:45.998070
+1885,124,1276,3,Quality thori average thi.,2025-06-16 15:45:45.998072
+1886,557,1291,3,Delivery time par mil gaya.,2025-08-25 15:45:45.998074
+1887,418,1792,5,Delivery time par mil gaya.,2025-06-13 15:45:45.998075
+1888,606,1262,5,Price ke hisaab se acha hai.,2025-08-30 15:45:45.998077
+1889,267,2898,5,Bohat achi quality hai.,2025-03-02 15:45:45.998079
+1890,163,2608,3,Delivery time par mil gaya.,2025-12-11 15:45:45.998081
+1891,856,2198,5,Quality thori average thi.,2025-02-22 15:45:45.998083
+1892,832,268,3,Bohat achi quality hai.,2025-03-24 15:45:45.998085
+1893,966,2803,4,Delivery time par mil gaya.,2025-11-09 15:45:45.998088
+1894,131,1433,3,Delivery time par mil gaya.,2025-07-09 15:45:45.998089
+1895,68,1735,5,Bohat achi quality hai.,2025-08-10 15:45:45.998091
+1896,198,352,5,Packaging zabardast thi.,2025-09-08 15:45:45.998093
+1897,408,2180,4,Packaging zabardast thi.,2025-03-18 15:45:45.998095
+1898,192,1334,4,Original product hai.,2026-02-05 15:45:45.998098
+1899,772,1220,4,Delivery time par mil gaya.,2025-11-30 15:45:45.998100
+1900,255,1880,3,Quality thori average thi.,2025-03-21 15:45:45.998102
+1901,600,1913,4,Quality thori average thi.,2025-11-24 15:45:45.998104
+1902,183,287,4,Delivery time par mil gaya.,2025-07-03 15:45:45.998106
+1903,707,2077,4,Quality thori average thi.,2025-05-25 15:45:45.998108
+1904,194,2487,5,Delivery time par mil gaya.,2026-01-29 15:45:45.998110
+1905,492,290,5,Packaging zabardast thi.,2025-05-09 15:45:45.998112
+1906,310,2869,3,Quality thori average thi.,2025-07-14 15:45:45.998114
+1907,920,19,3,Packaging zabardast thi.,2025-11-16 15:45:45.998116
+1908,813,2106,3,Packaging zabardast thi.,2025-04-23 15:45:45.998117
+1909,998,1899,5,Quality thori average thi.,2025-09-19 15:45:45.998119
+1910,507,657,4,Packaging zabardast thi.,2025-04-14 15:45:45.998121
+1911,791,2701,3,Price ke hisaab se acha hai.,2025-11-13 15:45:45.998123
+1912,157,1556,5,Quality thori average thi.,2025-08-08 15:45:45.998125
+1913,601,2985,3,Price ke hisaab se acha hai.,2025-04-07 15:45:45.998127
+1914,169,514,3,Price ke hisaab se acha hai.,2025-03-09 15:45:45.998130
+1915,971,1619,5,Packaging zabardast thi.,2026-01-15 15:45:45.998132
+1916,933,1205,4,Delivery time par mil gaya.,2025-12-31 15:45:45.998134
+1917,199,1433,5,Original product hai.,2025-07-26 15:45:45.998136
+1918,861,1108,4,Bohat achi quality hai.,2025-07-05 15:45:45.998138
+1919,484,661,5,Price ke hisaab se acha hai.,2025-04-23 15:45:45.998140
+1920,942,1410,3,Original product hai.,2025-09-15 15:45:45.998142
+1921,920,811,4,Packaging zabardast thi.,2025-11-22 15:45:45.998144
+1922,634,165,3,Quality thori average thi.,2025-12-23 15:45:45.998146
+1923,607,498,4,Original product hai.,2026-01-19 15:45:45.998148
+1924,711,2946,5,Quality thori average thi.,2025-10-08 15:45:45.998150
+1925,613,2949,5,Packaging zabardast thi.,2025-11-03 15:45:45.998152
+1926,97,1860,4,Price ke hisaab se acha hai.,2025-09-24 15:45:45.998153
+1927,770,25,5,Original product hai.,2026-02-05 15:45:45.998155
+1928,550,2677,4,Packaging zabardast thi.,2025-11-16 15:45:45.998157
+1929,217,2909,3,Bohat achi quality hai.,2025-11-18 15:45:45.998159
+1930,987,1836,3,Delivery time par mil gaya.,2025-07-02 15:45:45.998161
+1931,745,2052,5,Bohat achi quality hai.,2025-07-21 15:45:45.998163
+1932,614,1387,5,Bohat achi quality hai.,2025-11-12 15:45:45.998165
+1933,660,2650,3,Quality thori average thi.,2025-04-19 15:45:45.998167
+1934,372,206,4,Bohat achi quality hai.,2025-11-11 15:45:45.998169
+1935,766,1722,3,Quality thori average thi.,2025-03-28 15:45:45.998174
+1936,24,2437,4,Packaging zabardast thi.,2025-05-07 15:45:45.998176
+1937,42,1660,3,Bohat achi quality hai.,2025-11-02 15:45:45.998178
+1938,765,1777,4,Delivery time par mil gaya.,2025-10-15 15:45:45.998180
+1939,139,1401,4,Original product hai.,2025-08-15 15:45:45.998182
+1940,896,1120,4,Price ke hisaab se acha hai.,2025-08-14 15:45:45.998184
+1941,14,209,4,Bohat achi quality hai.,2025-03-22 15:45:45.998186
+1942,76,303,5,Bohat achi quality hai.,2026-01-24 15:45:45.998188
+1943,781,780,3,Price ke hisaab se acha hai.,2025-10-07 15:45:45.998190
+1944,527,1596,5,Quality thori average thi.,2025-06-20 15:45:45.998192
+1945,36,2295,5,Original product hai.,2025-06-08 15:45:45.998194
+1946,923,2394,4,Original product hai.,2025-10-21 15:45:45.998196
+1947,370,2748,3,Quality thori average thi.,2025-05-11 15:45:45.998200
+1948,656,1091,4,Packaging zabardast thi.,2026-01-16 15:45:45.998201
+1949,92,414,5,Delivery time par mil gaya.,2025-11-14 15:45:45.998203
+1950,222,1971,3,Quality thori average thi.,2025-10-03 15:45:45.998205
+1951,271,355,4,Original product hai.,2026-02-13 15:45:45.998207
+1952,133,225,3,Packaging zabardast thi.,2025-10-19 15:45:45.998209
+1953,79,563,4,Packaging zabardast thi.,2025-03-30 15:45:45.998211
+1954,159,1679,3,Price ke hisaab se acha hai.,2025-09-08 15:45:45.998213
+1955,869,2246,4,Delivery time par mil gaya.,2025-10-29 15:45:45.998215
+1956,16,1362,4,Price ke hisaab se acha hai.,2026-01-14 15:45:45.998217
+1957,501,679,5,Quality thori average thi.,2025-06-27 15:45:45.998219
+1958,858,2079,4,Quality thori average thi.,2025-03-20 15:45:45.998221
+1959,554,1331,3,Packaging zabardast thi.,2025-07-24 15:45:45.998223
+1960,251,1650,4,Quality thori average thi.,2025-08-24 15:45:45.998225
+1961,443,1112,4,Price ke hisaab se acha hai.,2025-10-20 15:45:45.998227
+1962,332,1399,5,Price ke hisaab se acha hai.,2025-06-16 15:45:45.998228
+1963,722,2384,3,Bohat achi quality hai.,2026-02-06 15:45:45.998230
+1964,729,2924,5,Original product hai.,2025-05-10 15:45:45.998232
+1965,543,1852,5,Delivery time par mil gaya.,2025-05-11 15:45:45.998234
+1966,470,1481,3,Price ke hisaab se acha hai.,2026-01-14 15:45:45.998237
+1967,654,410,3,Quality thori average thi.,2025-05-31 15:45:45.998239
+1968,241,1774,3,Packaging zabardast thi.,2025-10-03 15:45:45.998241
+1969,219,1340,4,Bohat achi quality hai.,2025-02-28 15:45:45.998242
+1970,54,2448,5,Delivery time par mil gaya.,2025-07-12 15:45:45.998244
+1971,468,456,4,Packaging zabardast thi.,2025-11-03 15:45:45.998246
+1972,929,1574,3,Delivery time par mil gaya.,2025-07-06 15:45:45.998248
+1973,712,2858,4,Price ke hisaab se acha hai.,2025-06-13 15:45:45.998250
+1974,252,330,4,Packaging zabardast thi.,2025-04-29 15:45:45.998252
+1975,326,469,5,Packaging zabardast thi.,2025-08-24 15:45:45.998254
+1976,664,2864,4,Original product hai.,2025-07-02 15:45:45.998256
+1977,657,671,4,Quality thori average thi.,2025-05-13 15:45:45.998258
+1978,450,2980,3,Quality thori average thi.,2025-06-14 15:45:45.998260
+1979,55,383,3,Packaging zabardast thi.,2025-08-23 15:45:45.998262
+1980,111,1132,5,Original product hai.,2026-01-16 15:45:45.998264
+1981,594,2130,5,Delivery time par mil gaya.,2025-11-11 15:45:45.998266
+1982,701,1906,3,Quality thori average thi.,2025-12-14 15:45:45.998268
+1983,461,1749,5,Packaging zabardast thi.,2025-06-02 15:45:45.998270
+1984,645,1957,3,Quality thori average thi.,2025-10-13 15:45:45.998272
+1985,367,1875,3,Original product hai.,2025-08-14 15:45:45.998275
+1986,823,180,5,Bohat achi quality hai.,2025-10-04 15:45:45.998277
+1987,145,1648,4,Price ke hisaab se acha hai.,2026-01-13 15:45:45.998278
+1988,667,2218,5,Packaging zabardast thi.,2025-06-11 15:45:45.998280
+1989,443,876,3,Price ke hisaab se acha hai.,2025-12-21 15:45:45.998282
+1990,474,1490,5,Original product hai.,2025-08-26 15:45:45.998284
+1991,736,1478,3,Packaging zabardast thi.,2025-11-01 15:45:45.998286
+1992,635,2970,5,Delivery time par mil gaya.,2025-11-12 15:45:45.998288
+1993,660,2288,4,Price ke hisaab se acha hai.,2025-02-20 15:45:45.998290
+1994,938,1490,5,Price ke hisaab se acha hai.,2025-04-12 15:45:45.998292
+1995,936,17,4,Quality thori average thi.,2025-11-22 15:45:45.998294
+1996,857,2209,3,Price ke hisaab se acha hai.,2025-12-15 15:45:45.998296
+1997,974,1309,3,Packaging zabardast thi.,2025-07-04 15:45:45.998298
+1998,685,277,4,Packaging zabardast thi.,2025-04-25 15:45:45.998300
+1999,479,359,4,Delivery time par mil gaya.,2026-01-10 15:45:45.998304
+2000,404,736,3,Delivery time par mil gaya.,2025-11-10 15:45:45.998306
