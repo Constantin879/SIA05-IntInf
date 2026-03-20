@@ -1,9 +1,3 @@
-/*nu mai folosesc, pentru LINK vechi*/
-/*ALTER SESSION SET CONTAINER = XEPDB1;
-GRANT CREATE DATABASE LINK TO ECOMMERCE;*/
-
-
-
 
 
 /*creare user ECOMMERCE pentru schema ECOMMERCE */
@@ -33,7 +27,7 @@ FROM dba_directories
 WHERE directory_name = 'CSV_DIR';
 
 -----------------------------------------------------------------------------------
-/*de aici in jos setari pentru mongodb*/
+/*setari pentru mongodb*/
 
 grant connect, resource to ECOMMERCE;
 grant CREATE VIEW to ECOMMERCE;
